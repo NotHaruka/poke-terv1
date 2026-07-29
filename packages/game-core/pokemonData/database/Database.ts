@@ -121,7 +121,7 @@ export class Database {
         
         const loadNodeJson = (filename: string): any => {
           const possiblePaths = [
-            path.resolve(process.cwd(), 'client/public/assets/data', filename),
+            path.resolve(process.cwd(), 'apps/game-client/public/assets/data', filename),
             path.resolve(process.cwd(), 'dist/client/assets/data', filename),
             path.resolve(process.cwd(), 'assets/data', filename)
           ];

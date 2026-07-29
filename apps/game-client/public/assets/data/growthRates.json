@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fast",
+    "name": "Fast",
+    "maxExp": 800000,
+    "formula": "0.8 * n^3"
+  },
+  {
+    "id": "medium_fast",
+    "name": "Medium Fast",
+    "maxExp": 1000000,
+    "formula": "n^3"
+  },
+  {
+    "id": "medium_slow",
+    "name": "Medium Slow",
+    "maxExp": 1059860,
+    "formula": "1.2 * n^3 - 15 * n^2 + 100 * n - 140"
+  },
+  {
+    "id": "slow",
+    "name": "Slow",
+    "maxExp": 1250000,
+    "formula": "1.25 * n^3"
+  },
+  {
+    "id": "erratic",
+    "name": "Erratic",
+    "maxExp": 600000,
+    "formula": "Variable based on level bracket"
+  },
+  {
+    "id": "fluctuating",
+    "name": "Fluctuating",
+    "maxExp": 1640000,
+    "formula": "Variable based on level bracket"
+  }
+]

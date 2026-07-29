@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { MultiplayerCanvas } from '../ui/MultiplayerCanvas.js';
 import { TileAtlasViewer } from '../../../tools/world-editor/TileAtlasViewer.js';
 import { ChunkInspector } from '../../../tools/world-editor/ChunkInspector.js';
-import { BiomeEditor } from '../../../tools/world-editor/BiomeEditor.js';
+import { BiomeEditor } from '../../../tools/world-editor/BiomeEditor.tsx';
 import { PipelineTool } from '../../../tools/world-editor/PipelineTool.js';
 
 /**

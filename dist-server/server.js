@@ -1235,7 +1235,7 @@ var Database = class _Database {
         const path4 = await import("path");
         const loadNodeJson = (filename) => {
           const possiblePaths = [
-            path4.resolve(process.cwd(), "client/public/assets/data", filename),
+            path4.resolve(process.cwd(), "apps/game-client/public/assets/data", filename),
             path4.resolve(process.cwd(), "dist/client/assets/data", filename),
             path4.resolve(process.cwd(), "assets/data", filename)
           ];
