@@ -1,0 +1,8 @@
+{
+  "name": "Pokémon Ter2",
+  "description": "Multiplayer Pokémon game with procedural worldgen and Pokémon Emerald assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

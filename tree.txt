@@ -1,0 +1,91 @@
+poke-ter/ # root
+
+├── assets-pipeline/
+│   ├── gameplayData.ts
+│   ├── pipeline.ts
+│   ├── run-pipeline.ts
+│   └── tilesetDecode.py
+├── client/
+│   ├── public/
+│   │   └── assets/
+│   ├── rendering/
+│   │   └── worldCanvas.ts
+│   └── ui/
+│       ├── BattleInterface.tsx
+│       ├── BiomeEditor.tsx
+│       ├── ChunkInspector.tsx
+│       ├── MultiplayerCanvas.tsx
+│       ├── PipelineTool.tsx
+│       └── TileAtlasViewer.tsx
+├── server/
+│   ├── battleResolution/
+│   │   ├── capture/
+│   │   ├── effects/
+│   │   ├── providers/
+│   │   ├── BattleAction.ts
+│   │   ├── BattleActionQueue.ts
+│   │   ├── BattleContext.ts
+│   │   ├── BattleEvents.ts
+│   │   ├── BattleInstance.ts
+│   │   ├── BattleManager.ts
+│   │   ├── BattleParticipant.ts
+│   │   └── BattleState.ts
+│   ├── multiplayer/
+│   │   ├── ai/
+│   │   ├── integration/
+│   │   ├── BattleSessionManager.ts
+│   │   ├── PokemonSpawnManager.ts
+│   │   ├── SaveManager.ts
+│   │   ├── TradeEvents.ts
+│   │   ├── TradeManager.ts
+│   │   ├── TradeSession.ts
+│   │   ├── TradeValidator.ts
+│   │   ├── game.ts
+│   │   ├── handlers.ts
+│   │   └── types.ts
+│   ├── auth.ts
+│   ├── battleResolution.ts
+│   ├── index.ts
+│   └── multiplayer.ts
+├── shared/
+│   ├── battleFormulas/
+│   │   ├── calculators/
+│   │   └── systems/
+│   ├── pokemonData/
+│   │   ├── data/
+│   │   ├── database/
+│   │   ├── managers/
+│   │   │   ├── PokemonFactory.ts
+│   │   │   └── PokemonManager.ts
+│   │   ├── models/
+│   │   ├── utils/
+│   │   ├── world/
+│   │   ├── PokemonRegistry.ts
+│   │   ├── math.ts
+│   │   └── packets.ts
+│   ├── battleFormulas.ts
+│   ├── pokemonData.ts
+│   └── types.ts
+├── src/
+│   ├── App.tsx
+│   ├── index.css
+│   └── main.tsx
+├── worldgen/
+│   ├── biomes/
+│   │   ├── biomeDefinitions.ts
+│   │   └── noise.ts
+│   ├── generator/
+│   │   ├── chunkGenerator.ts
+│   │   └── legacyProceduralWorldgen.ts
+│   └── tiles/
+│       └── tileLibrary.ts
+├── .env.example
+├── .gitignore
+├── index.html
+├── metadata.json
+├── package.json
+├── postcss.config.js
+├── server.ts
+├── tailwind.config.js
+├── tsconfig.json
+└── vite.config.ts
