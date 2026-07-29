@@ -42,7 +42,7 @@ async function startServer() {
   app.use('/api/auth', authRouter);
 
   const server = http.createServer(app);
-  const PORT = Number(process.env.PORT) || 3000;
+  const PORT = 3000;
 
   // WebSocket server multiplexed on the same HTTP server
   const wss = new WebSocketServer({ server });
