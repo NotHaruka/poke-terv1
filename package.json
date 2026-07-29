@@ -5,10 +5,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "tsx server.ts",
-    "build": "vite build --outDir dist --emptyOutDir && esbuild server.ts --bundle --platform=node --format=esm --packages=external --sourcemap --outfile=dist-server/server.js",
+    "dev": "tsx apps/game-server/server.ts",
+    "build": "vite build --outDir dist --emptyOutDir && esbuild apps/game-server/server.ts --bundle --platform=node --format=esm --packages=external --sourcemap --outfile=dist-server/server.js",
     "start": "npm run build && node dist-server/server.js",
-    "pipeline": "tsx assets-pipeline/run-pipeline.ts",
+    "pipeline": "tsx tools/asset-pipeline/run-pipeline.ts",
+    "typecheck": "tsc --noEmit",
     "lint": "tsc --noEmit"
   },
   "dependencies": {

@@ -2,8 +2,9 @@
 export default {
   content: [
     './index.html',
-    './src/**/*.{ts,tsx}',
-    './client/**/*.{ts,tsx}',
+    './apps/game-client/**/*.{ts,tsx,html}',
+    './tools/**/*.{ts,tsx,html}',
+    './packages/**/*.{ts,tsx,html}',
   ],
   theme: {
     extend: {},

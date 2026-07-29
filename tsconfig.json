@@ -11,16 +11,20 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "paths": {
+      "@engine/*": ["packages/engine/*"],
+      "@game-core/*": ["packages/game-core/*"],
+      "@world/*": ["packages/world/*"],
+      "@shared/*": ["packages/shared/*"],
+      "@client/*": ["apps/game-client/*"],
+      "@server/*": ["apps/game-server/*"]
+    }
   },
   "include": [
-    "server.ts",
-    "server/**/*",
-    "shared/**/*",
-    "worldgen/**/*",
-    "client/**/*",
-    "assets-pipeline/**/*.ts",
-    "src/**/*"
+    "apps/**/*",
+    "packages/**/*",
+    "tools/**/*"
   ],
   "exclude": ["node_modules", "dist", "dist-server", ".cache_pokeemerald"]
 }
