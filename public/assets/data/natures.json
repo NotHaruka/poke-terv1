@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "name": "Hardy",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "favoriteFlavor": null,
+    "dislikedFlavor": null
+  },
+  {
+    "id": 1,
+    "name": "Lonely",
+    "increasedStat": "attack",
+    "decreasedStat": "defense",
+    "favoriteFlavor": "spicy",
+    "dislikedFlavor": "sour"
+  },
+  {
+    "id": 2,
+    "name": "Brave",
+    "increasedStat": "attack",
+    "decreasedStat": "speed",
+    "favoriteFlavor": "spicy",
+    "dislikedFlavor": "sweet"
+  },
+  {
+    "id": 3,
+    "name": "Adamant",
+    "increasedStat": "attack",
+    "decreasedStat": "specialAttack",
+    "favoriteFlavor": "spicy",
+    "dislikedFlavor": "dry"
+  },
+  {
+    "id": 4,
+    "name": "Naughty",
+    "increasedStat": "attack",
+    "decreasedStat": "specialDefense",
+    "favoriteFlavor": "spicy",
+    "dislikedFlavor": "bitter"
+  },
+  {
+    "id": 5,
+    "name": "Bold",
+    "increasedStat": "defense",
+    "decreasedStat": "attack",
+    "favoriteFlavor": "sour",
+    "dislikedFlavor": "spicy"
+  },
+  {
+    "id": 6,
+    "name": "Docile",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "favoriteFlavor": null,
+    "dislikedFlavor": null
+  },
+  {
+    "id": 7,
+    "name": "Relaxed",
+    "increasedStat": "defense",
+    "decreasedStat": "speed",
+    "favoriteFlavor": "sour",
+    "dislikedFlavor": "sweet"
+  },
+  {
+    "id": 8,
+    "name": "Impish",
+    "increasedStat": "defense",
+    "decreasedStat": "specialAttack",
+    "favoriteFlavor": "sour",
+    "dislikedFlavor": "dry"
+  },
+  {
+    "id": 9,
+    "name": "Lax",
+    "increasedStat": "defense",
+    "decreasedStat": "specialDefense",
+    "favoriteFlavor": "sour",
+    "dislikedFlavor": "bitter"
+  },
+  {
+    "id": 10,
+    "name": "Timid",
+    "increasedStat": "speed",
+    "decreasedStat": "attack",
+    "favoriteFlavor": "sweet",
+    "dislikedFlavor": "spicy"
+  },
+  {
+    "id": 11,
+    "name": "Hasty",
+    "increasedStat": "speed",
+    "decreasedStat": "defense",
+    "favoriteFlavor": "sweet",
+    "dislikedFlavor": "sour"
+  },
+  {
+    "id": 12,
+    "name": "Serious",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "favoriteFlavor": null,
+    "dislikedFlavor": null
+  },
+  {
+    "id": 13,
+    "name": "Jolly",
+    "increasedStat": "speed",
+    "decreasedStat": "specialAttack",
+    "favoriteFlavor": "sweet",
+    "dislikedFlavor": "dry"
+  },
+  {
+    "id": 14,
+    "name": "Naive",
+    "increasedStat": "speed",
+    "decreasedStat": "specialDefense",
+    "favoriteFlavor": "sweet",
+    "dislikedFlavor": "bitter"
+  },
+  {
+    "id": 15,
+    "name": "Modest",
+    "increasedStat": "specialAttack",
+    "decreasedStat": "attack",
+    "favoriteFlavor": "dry",
+    "dislikedFlavor": "spicy"
+  },
+  {
+    "id": 16,
+    "name": "Mild",
+    "increasedStat": "specialAttack",
+    "decreasedStat": "defense",
+    "favoriteFlavor": "dry",
+    "dislikedFlavor": "sour"
+  },
+  {
+    "id": 17,
+    "name": "Quiet",
+    "increasedStat": "specialAttack",
+    "decreasedStat": "speed",
+    "favoriteFlavor": "dry",
+    "dislikedFlavor": "sweet"
+  },
+  {
+    "id": 18,
+    "name": "Bashful",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "favoriteFlavor": null,
+    "dislikedFlavor": null
+  },
+  {
+    "id": 19,
+    "name": "Rash",
+    "increasedStat": "specialAttack",
+    "decreasedStat": "specialDefense",
+    "favoriteFlavor": "dry",
+    "dislikedFlavor": "bitter"
+  },
+  {
+    "id": 20,
+    "name": "Calm",
+    "increasedStat": "specialDefense",
+    "decreasedStat": "attack",
+    "favoriteFlavor": "bitter",
+    "dislikedFlavor": "spicy"
+  },
+  {
+    "id": 21,
+    "name": "Gentle",
+    "increasedStat": "specialDefense",
+    "decreasedStat": "defense",
+    "favoriteFlavor": "bitter",
+    "dislikedFlavor": "sour"
+  },
+  {
+    "id": 22,
+    "name": "Sassy",
+    "increasedStat": "specialDefense",
+    "decreasedStat": "speed",
+    "favoriteFlavor": "bitter",
+    "dislikedFlavor": "sweet"
+  },
+  {
+    "id": 23,
+    "name": "Careful",
+    "increasedStat": "specialDefense",
+    "decreasedStat": "specialAttack",
+    "favoriteFlavor": "bitter",
+    "dislikedFlavor": "dry"
+  },
+  {
+    "id": 24,
+    "name": "Quirky",
+    "increasedStat": null,
+    "decreasedStat": null,
+    "favoriteFlavor": null,
+    "dislikedFlavor": null
+  }
+]

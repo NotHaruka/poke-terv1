@@ -1,0 +1,1275 @@
+[
+  {
+    "id": 1,
+    "name": "Cheri Berry",
+    "size": 20,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_cheri"
+  },
+  {
+    "id": 2,
+    "name": "Chesto Berry",
+    "size": 21,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_chesto"
+  },
+  {
+    "id": 3,
+    "name": "Pecha Berry",
+    "size": 22,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_pecha"
+  },
+  {
+    "id": 4,
+    "name": "Rawst Berry",
+    "size": 23,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_rawst"
+  },
+  {
+    "id": 5,
+    "name": "Aspear Berry",
+    "size": 24,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_aspear"
+  },
+  {
+    "id": 6,
+    "name": "Leppa Berry",
+    "size": 25,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_leppa"
+  },
+  {
+    "id": 7,
+    "name": "Oran Berry",
+    "size": 26,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_oran"
+  },
+  {
+    "id": 8,
+    "name": "Persim Berry",
+    "size": 27,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_persim"
+  },
+  {
+    "id": 9,
+    "name": "Lum Berry",
+    "size": 28,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_lum"
+  },
+  {
+    "id": 10,
+    "name": "Sitrus Berry",
+    "size": 29,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_sitrus"
+  },
+  {
+    "id": 11,
+    "name": "Figy Berry",
+    "size": 30,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_figy"
+  },
+  {
+    "id": 12,
+    "name": "Wiki Berry",
+    "size": 31,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_wiki"
+  },
+  {
+    "id": 13,
+    "name": "Mago Berry",
+    "size": 32,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_mago"
+  },
+  {
+    "id": 14,
+    "name": "Aguav Berry",
+    "size": 33,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_aguav"
+  },
+  {
+    "id": 15,
+    "name": "Iapapa Berry",
+    "size": 34,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_iapapa"
+  },
+  {
+    "id": 16,
+    "name": "Razz Berry",
+    "size": 35,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_razz"
+  },
+  {
+    "id": 17,
+    "name": "Bluk Berry",
+    "size": 36,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_bluk"
+  },
+  {
+    "id": 18,
+    "name": "Nanab Berry",
+    "size": 37,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_nanab"
+  },
+  {
+    "id": 19,
+    "name": "Wepear Berry",
+    "size": 38,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_wepear"
+  },
+  {
+    "id": 20,
+    "name": "Pinap Berry",
+    "size": 39,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_pinap"
+  },
+  {
+    "id": 21,
+    "name": "Pomeg Berry",
+    "size": 40,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_pomeg"
+  },
+  {
+    "id": 22,
+    "name": "Kelpsy Berry",
+    "size": 41,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_kelpsy"
+  },
+  {
+    "id": 23,
+    "name": "Qualot Berry",
+    "size": 42,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_qualot"
+  },
+  {
+    "id": 24,
+    "name": "Hondew Berry",
+    "size": 43,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_hondew"
+  },
+  {
+    "id": 25,
+    "name": "Grepa Berry",
+    "size": 44,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_grepa"
+  },
+  {
+    "id": 26,
+    "name": "Tamato Berry",
+    "size": 45,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_tamato"
+  },
+  {
+    "id": 27,
+    "name": "Cornn Berry",
+    "size": 46,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_cornn"
+  },
+  {
+    "id": 28,
+    "name": "Magost Berry",
+    "size": 47,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_magost"
+  },
+  {
+    "id": 29,
+    "name": "Rabuta Berry",
+    "size": 48,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_rabuta"
+  },
+  {
+    "id": 30,
+    "name": "Nomel Berry",
+    "size": 49,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_nomel"
+  },
+  {
+    "id": 31,
+    "name": "Spelon Berry",
+    "size": 50,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_spelon"
+  },
+  {
+    "id": 32,
+    "name": "Pamtre Berry",
+    "size": 51,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_pamtre"
+  },
+  {
+    "id": 33,
+    "name": "Watmel Berry",
+    "size": 52,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_watmel"
+  },
+  {
+    "id": 34,
+    "name": "Durin Berry",
+    "size": 53,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_durin"
+  },
+  {
+    "id": 35,
+    "name": "Belue Berry",
+    "size": 54,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_belue"
+  },
+  {
+    "id": 36,
+    "name": "Occa Berry",
+    "size": 55,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_occa"
+  },
+  {
+    "id": 37,
+    "name": "Passho Berry",
+    "size": 56,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_passho"
+  },
+  {
+    "id": 38,
+    "name": "Wacan Berry",
+    "size": 57,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_wacan"
+  },
+  {
+    "id": 39,
+    "name": "Rindo Berry",
+    "size": 58,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_rindo"
+  },
+  {
+    "id": 40,
+    "name": "Yache Berry",
+    "size": 59,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_yache"
+  },
+  {
+    "id": 41,
+    "name": "Chople Berry",
+    "size": 60,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_chople"
+  },
+  {
+    "id": 42,
+    "name": "Kebia Berry",
+    "size": 61,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_kebia"
+  },
+  {
+    "id": 43,
+    "name": "Shuca Berry",
+    "size": 62,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_shuca"
+  },
+  {
+    "id": 44,
+    "name": "Coba Berry",
+    "size": 63,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_coba"
+  },
+  {
+    "id": 45,
+    "name": "Payapa Berry",
+    "size": 64,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_payapa"
+  },
+  {
+    "id": 46,
+    "name": "Tanga Berry",
+    "size": 65,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_tanga"
+  },
+  {
+    "id": 47,
+    "name": "Charti Berry",
+    "size": 66,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_charti"
+  },
+  {
+    "id": 48,
+    "name": "Kasib Berry",
+    "size": 67,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_kasib"
+  },
+  {
+    "id": 49,
+    "name": "Haban Berry",
+    "size": 68,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_haban"
+  },
+  {
+    "id": 50,
+    "name": "Colbur Berry",
+    "size": 69,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_colbur"
+  },
+  {
+    "id": 51,
+    "name": "Babiri Berry",
+    "size": 70,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_babiri"
+  },
+  {
+    "id": 52,
+    "name": "Chilan Berry",
+    "size": 71,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_chilan"
+  },
+  {
+    "id": 53,
+    "name": "Liechi Berry",
+    "size": 72,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_liechi"
+  },
+  {
+    "id": 54,
+    "name": "Ganlon Berry",
+    "size": 73,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_ganlon"
+  },
+  {
+    "id": 55,
+    "name": "Salac Berry",
+    "size": 74,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_salac"
+  },
+  {
+    "id": 56,
+    "name": "Petaya Berry",
+    "size": 75,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_petaya"
+  },
+  {
+    "id": 57,
+    "name": "Apicot Berry",
+    "size": 76,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_apicot"
+  },
+  {
+    "id": 58,
+    "name": "Lansat Berry",
+    "size": 77,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_lansat"
+  },
+  {
+    "id": 59,
+    "name": "Starf Berry",
+    "size": 78,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_starf"
+  },
+  {
+    "id": 60,
+    "name": "Enigma Berry",
+    "size": 79,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_enigma"
+  },
+  {
+    "id": 61,
+    "name": "Micle Berry",
+    "size": 80,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_micle"
+  },
+  {
+    "id": 62,
+    "name": "Custap Berry",
+    "size": 81,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_custap"
+  },
+  {
+    "id": 63,
+    "name": "Jaboca Berry",
+    "size": 82,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_jaboca"
+  },
+  {
+    "id": 64,
+    "name": "Rowap Berry",
+    "size": 83,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_rowap"
+  },
+  {
+    "id": 65,
+    "name": "Roseli Berry",
+    "size": 84,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_roseli"
+  },
+  {
+    "id": 66,
+    "name": "Kee Berry",
+    "size": 85,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_kee"
+  },
+  {
+    "id": 67,
+    "name": "Maranga Berry",
+    "size": 86,
+    "firmness": "soft",
+    "smoothness": 25,
+    "growthTime": 4,
+    "harvestYield": 3,
+    "flavor": {
+      "spicy": 10,
+      "dry": 0,
+      "sweet": 0,
+      "bitter": 0,
+      "sour": 0
+    },
+    "naturalGiftPower": 80,
+    "naturalGiftType": "normal",
+    "battleEffect": "cures_maranga"
+  }
+]

@@ -1,0 +1,3598 @@
+{
+  "1": [
+    {
+      "sourceSpeciesId": 1,
+      "targetSpeciesId": 2,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "2": [
+    {
+      "sourceSpeciesId": 2,
+      "targetSpeciesId": 3,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "4": [
+    {
+      "sourceSpeciesId": 4,
+      "targetSpeciesId": 5,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "5": [
+    {
+      "sourceSpeciesId": 5,
+      "targetSpeciesId": 6,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "7": [
+    {
+      "sourceSpeciesId": 7,
+      "targetSpeciesId": 8,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "8": [
+    {
+      "sourceSpeciesId": 8,
+      "targetSpeciesId": 9,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "10": [
+    {
+      "sourceSpeciesId": 10,
+      "targetSpeciesId": 11,
+      "method": "level",
+      "parameter": "7",
+      "minLevel": 7
+    }
+  ],
+  "11": [
+    {
+      "sourceSpeciesId": 11,
+      "targetSpeciesId": 12,
+      "method": "level",
+      "parameter": "10",
+      "minLevel": 10
+    }
+  ],
+  "13": [
+    {
+      "sourceSpeciesId": 13,
+      "targetSpeciesId": 14,
+      "method": "level",
+      "parameter": "7",
+      "minLevel": 7
+    }
+  ],
+  "14": [
+    {
+      "sourceSpeciesId": 14,
+      "targetSpeciesId": 15,
+      "method": "level",
+      "parameter": "10",
+      "minLevel": 10
+    }
+  ],
+  "16": [
+    {
+      "sourceSpeciesId": 16,
+      "targetSpeciesId": 17,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "17": [
+    {
+      "sourceSpeciesId": 17,
+      "targetSpeciesId": 18,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "19": [
+    {
+      "sourceSpeciesId": 19,
+      "targetSpeciesId": 20,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "21": [
+    {
+      "sourceSpeciesId": 21,
+      "targetSpeciesId": 22,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "23": [
+    {
+      "sourceSpeciesId": 23,
+      "targetSpeciesId": 24,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "27": [
+    {
+      "sourceSpeciesId": 27,
+      "targetSpeciesId": 28,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "29": [
+    {
+      "sourceSpeciesId": 29,
+      "targetSpeciesId": 30,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "30": [
+    {
+      "sourceSpeciesId": 30,
+      "targetSpeciesId": 31,
+      "method": "item",
+      "parameter": "ITEM_MOON_STONE",
+      "item": "moon_stone"
+    }
+  ],
+  "32": [
+    {
+      "sourceSpeciesId": 32,
+      "targetSpeciesId": 33,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "33": [
+    {
+      "sourceSpeciesId": 33,
+      "targetSpeciesId": 34,
+      "method": "item",
+      "parameter": "ITEM_MOON_STONE",
+      "item": "moon_stone"
+    }
+  ],
+  "35": [
+    {
+      "sourceSpeciesId": 35,
+      "targetSpeciesId": 36,
+      "method": "item",
+      "parameter": "ITEM_MOON_STONE",
+      "item": "moon_stone"
+    }
+  ],
+  "37": [
+    {
+      "sourceSpeciesId": 37,
+      "targetSpeciesId": 38,
+      "method": "item",
+      "parameter": "ITEM_FIRE_STONE",
+      "item": "fire_stone"
+    }
+  ],
+  "39": [
+    {
+      "sourceSpeciesId": 39,
+      "targetSpeciesId": 40,
+      "method": "item",
+      "parameter": "ITEM_MOON_STONE",
+      "item": "moon_stone"
+    }
+  ],
+  "41": [
+    {
+      "sourceSpeciesId": 41,
+      "targetSpeciesId": 42,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "43": [
+    {
+      "sourceSpeciesId": 43,
+      "targetSpeciesId": 44,
+      "method": "level",
+      "parameter": "21",
+      "minLevel": 21
+    }
+  ],
+  "44": [
+    {
+      "sourceSpeciesId": 44,
+      "targetSpeciesId": 45,
+      "method": "item",
+      "parameter": "ITEM_LEAF_STONE",
+      "item": "leaf_stone"
+    },
+    {
+      "sourceSpeciesId": 44,
+      "targetSpeciesId": 182,
+      "method": "item",
+      "parameter": "ITEM_SUN_STONE",
+      "item": "sun_stone"
+    }
+  ],
+  "46": [
+    {
+      "sourceSpeciesId": 46,
+      "targetSpeciesId": 47,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "48": [
+    {
+      "sourceSpeciesId": 48,
+      "targetSpeciesId": 49,
+      "method": "level",
+      "parameter": "31",
+      "minLevel": 31
+    }
+  ],
+  "50": [
+    {
+      "sourceSpeciesId": 50,
+      "targetSpeciesId": 51,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "52": [
+    {
+      "sourceSpeciesId": 52,
+      "targetSpeciesId": 53,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "54": [
+    {
+      "sourceSpeciesId": 54,
+      "targetSpeciesId": 55,
+      "method": "level",
+      "parameter": "33",
+      "minLevel": 33
+    }
+  ],
+  "56": [
+    {
+      "sourceSpeciesId": 56,
+      "targetSpeciesId": 57,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "58": [
+    {
+      "sourceSpeciesId": 58,
+      "targetSpeciesId": 59,
+      "method": "item",
+      "parameter": "ITEM_FIRE_STONE",
+      "item": "fire_stone"
+    }
+  ],
+  "60": [
+    {
+      "sourceSpeciesId": 60,
+      "targetSpeciesId": 61,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "61": [
+    {
+      "sourceSpeciesId": 61,
+      "targetSpeciesId": 62,
+      "method": "item",
+      "parameter": "ITEM_WATER_STONE",
+      "item": "water_stone"
+    }
+  ],
+  "63": [
+    {
+      "sourceSpeciesId": 63,
+      "targetSpeciesId": 64,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "64": [
+    {
+      "sourceSpeciesId": 64,
+      "targetSpeciesId": 65,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 64,
+      "targetSpeciesId": 65,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "66": [
+    {
+      "sourceSpeciesId": 66,
+      "targetSpeciesId": 67,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "67": [
+    {
+      "sourceSpeciesId": 67,
+      "targetSpeciesId": 68,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 67,
+      "targetSpeciesId": 68,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "69": [
+    {
+      "sourceSpeciesId": 69,
+      "targetSpeciesId": 70,
+      "method": "level",
+      "parameter": "21",
+      "minLevel": 21
+    }
+  ],
+  "70": [
+    {
+      "sourceSpeciesId": 70,
+      "targetSpeciesId": 71,
+      "method": "item",
+      "parameter": "ITEM_LEAF_STONE",
+      "item": "leaf_stone"
+    }
+  ],
+  "72": [
+    {
+      "sourceSpeciesId": 72,
+      "targetSpeciesId": 73,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "74": [
+    {
+      "sourceSpeciesId": 74,
+      "targetSpeciesId": 75,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "75": [
+    {
+      "sourceSpeciesId": 75,
+      "targetSpeciesId": 76,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 75,
+      "targetSpeciesId": 76,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "77": [
+    {
+      "sourceSpeciesId": 77,
+      "targetSpeciesId": 78,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "79": [
+    {
+      "sourceSpeciesId": 79,
+      "targetSpeciesId": 80,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "81": [
+    {
+      "sourceSpeciesId": 81,
+      "targetSpeciesId": 82,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "84": [
+    {
+      "sourceSpeciesId": 84,
+      "targetSpeciesId": 85,
+      "method": "level",
+      "parameter": "31",
+      "minLevel": 31
+    }
+  ],
+  "86": [
+    {
+      "sourceSpeciesId": 86,
+      "targetSpeciesId": 87,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "88": [
+    {
+      "sourceSpeciesId": 88,
+      "targetSpeciesId": 89,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "90": [
+    {
+      "sourceSpeciesId": 90,
+      "targetSpeciesId": 91,
+      "method": "item",
+      "parameter": "ITEM_WATER_STONE",
+      "item": "water_stone"
+    }
+  ],
+  "92": [
+    {
+      "sourceSpeciesId": 92,
+      "targetSpeciesId": 93,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "93": [
+    {
+      "sourceSpeciesId": 93,
+      "targetSpeciesId": 94,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 93,
+      "targetSpeciesId": 94,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "96": [
+    {
+      "sourceSpeciesId": 96,
+      "targetSpeciesId": 97,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "98": [
+    {
+      "sourceSpeciesId": 98,
+      "targetSpeciesId": 99,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "100": [
+    {
+      "sourceSpeciesId": 100,
+      "targetSpeciesId": 101,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "111": [
+    {
+      "sourceSpeciesId": 111,
+      "targetSpeciesId": 112,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "116": [
+    {
+      "sourceSpeciesId": 116,
+      "targetSpeciesId": 117,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "118": [
+    {
+      "sourceSpeciesId": 118,
+      "targetSpeciesId": 119,
+      "method": "level",
+      "parameter": "33",
+      "minLevel": 33
+    }
+  ],
+  "120": [
+    {
+      "sourceSpeciesId": 120,
+      "targetSpeciesId": 121,
+      "method": "item",
+      "parameter": "ITEM_WATER_STONE",
+      "item": "water_stone"
+    }
+  ],
+  "129": [
+    {
+      "sourceSpeciesId": 129,
+      "targetSpeciesId": 130,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "133": [
+    {
+      "sourceSpeciesId": 133,
+      "targetSpeciesId": 135,
+      "method": "item",
+      "parameter": "ITEM_THUNDER_STONE",
+      "item": "thunder_stone"
+    },
+    {
+      "sourceSpeciesId": 133,
+      "targetSpeciesId": 134,
+      "method": "item",
+      "parameter": "ITEM_WATER_STONE",
+      "item": "water_stone"
+    },
+    {
+      "sourceSpeciesId": 133,
+      "targetSpeciesId": 136,
+      "method": "item",
+      "parameter": "ITEM_FIRE_STONE",
+      "item": "fire_stone"
+    }
+  ],
+  "138": [
+    {
+      "sourceSpeciesId": 138,
+      "targetSpeciesId": 139,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "140": [
+    {
+      "sourceSpeciesId": 140,
+      "targetSpeciesId": 141,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "147": [
+    {
+      "sourceSpeciesId": 147,
+      "targetSpeciesId": 148,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "148": [
+    {
+      "sourceSpeciesId": 148,
+      "targetSpeciesId": 149,
+      "method": "level",
+      "parameter": "55",
+      "minLevel": 55
+    }
+  ],
+  "152": [
+    {
+      "sourceSpeciesId": 152,
+      "targetSpeciesId": 153,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "153": [
+    {
+      "sourceSpeciesId": 153,
+      "targetSpeciesId": 154,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "155": [
+    {
+      "sourceSpeciesId": 155,
+      "targetSpeciesId": 156,
+      "method": "level",
+      "parameter": "14",
+      "minLevel": 14
+    }
+  ],
+  "158": [
+    {
+      "sourceSpeciesId": 158,
+      "targetSpeciesId": 159,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "159": [
+    {
+      "sourceSpeciesId": 159,
+      "targetSpeciesId": 160,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "161": [
+    {
+      "sourceSpeciesId": 161,
+      "targetSpeciesId": 162,
+      "method": "level",
+      "parameter": "15",
+      "minLevel": 15
+    }
+  ],
+  "163": [
+    {
+      "sourceSpeciesId": 163,
+      "targetSpeciesId": 164,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "165": [
+    {
+      "sourceSpeciesId": 165,
+      "targetSpeciesId": 166,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "167": [
+    {
+      "sourceSpeciesId": 167,
+      "targetSpeciesId": 168,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "170": [
+    {
+      "sourceSpeciesId": 170,
+      "targetSpeciesId": 171,
+      "method": "level",
+      "parameter": "27",
+      "minLevel": 27
+    }
+  ],
+  "176": [
+    {
+      "sourceSpeciesId": 176,
+      "targetSpeciesId": 468,
+      "method": "item",
+      "parameter": "ITEM_SHINY_STONE",
+      "item": "shiny_stone"
+    }
+  ],
+  "177": [
+    {
+      "sourceSpeciesId": 177,
+      "targetSpeciesId": 178,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "179": [
+    {
+      "sourceSpeciesId": 179,
+      "targetSpeciesId": 180,
+      "method": "level",
+      "parameter": "15",
+      "minLevel": 15
+    }
+  ],
+  "180": [
+    {
+      "sourceSpeciesId": 180,
+      "targetSpeciesId": 181,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "183": [
+    {
+      "sourceSpeciesId": 183,
+      "targetSpeciesId": 184,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "187": [
+    {
+      "sourceSpeciesId": 187,
+      "targetSpeciesId": 188,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "188": [
+    {
+      "sourceSpeciesId": 188,
+      "targetSpeciesId": 189,
+      "method": "level",
+      "parameter": "27",
+      "minLevel": 27
+    }
+  ],
+  "191": [
+    {
+      "sourceSpeciesId": 191,
+      "targetSpeciesId": 192,
+      "method": "item",
+      "parameter": "ITEM_SUN_STONE",
+      "item": "sun_stone"
+    }
+  ],
+  "194": [
+    {
+      "sourceSpeciesId": 194,
+      "targetSpeciesId": 195,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "198": [
+    {
+      "sourceSpeciesId": 198,
+      "targetSpeciesId": 430,
+      "method": "item",
+      "parameter": "ITEM_DUSK_STONE",
+      "item": "dusk_stone"
+    }
+  ],
+  "200": [
+    {
+      "sourceSpeciesId": 200,
+      "targetSpeciesId": 429,
+      "method": "item",
+      "parameter": "ITEM_DUSK_STONE",
+      "item": "dusk_stone"
+    }
+  ],
+  "204": [
+    {
+      "sourceSpeciesId": 204,
+      "targetSpeciesId": 205,
+      "method": "level",
+      "parameter": "31",
+      "minLevel": 31
+    }
+  ],
+  "209": [
+    {
+      "sourceSpeciesId": 209,
+      "targetSpeciesId": 210,
+      "method": "level",
+      "parameter": "23",
+      "minLevel": 23
+    }
+  ],
+  "216": [
+    {
+      "sourceSpeciesId": 216,
+      "targetSpeciesId": 217,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "218": [
+    {
+      "sourceSpeciesId": 218,
+      "targetSpeciesId": 219,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "220": [
+    {
+      "sourceSpeciesId": 220,
+      "targetSpeciesId": 221,
+      "method": "level",
+      "parameter": "33",
+      "minLevel": 33
+    }
+  ],
+  "223": [
+    {
+      "sourceSpeciesId": 223,
+      "targetSpeciesId": 224,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "228": [
+    {
+      "sourceSpeciesId": 228,
+      "targetSpeciesId": 229,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "231": [
+    {
+      "sourceSpeciesId": 231,
+      "targetSpeciesId": 232,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "238": [
+    {
+      "sourceSpeciesId": 238,
+      "targetSpeciesId": 124,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "239": [
+    {
+      "sourceSpeciesId": 239,
+      "targetSpeciesId": 125,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "240": [
+    {
+      "sourceSpeciesId": 240,
+      "targetSpeciesId": 126,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "246": [
+    {
+      "sourceSpeciesId": 246,
+      "targetSpeciesId": 247,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "247": [
+    {
+      "sourceSpeciesId": 247,
+      "targetSpeciesId": 248,
+      "method": "level",
+      "parameter": "55",
+      "minLevel": 55
+    }
+  ],
+  "252": [
+    {
+      "sourceSpeciesId": 252,
+      "targetSpeciesId": 253,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "253": [
+    {
+      "sourceSpeciesId": 253,
+      "targetSpeciesId": 254,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "255": [
+    {
+      "sourceSpeciesId": 255,
+      "targetSpeciesId": 256,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "256": [
+    {
+      "sourceSpeciesId": 256,
+      "targetSpeciesId": 257,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "258": [
+    {
+      "sourceSpeciesId": 258,
+      "targetSpeciesId": 259,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "259": [
+    {
+      "sourceSpeciesId": 259,
+      "targetSpeciesId": 260,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "261": [
+    {
+      "sourceSpeciesId": 261,
+      "targetSpeciesId": 262,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "263": [
+    {
+      "sourceSpeciesId": 263,
+      "targetSpeciesId": 264,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "266": [
+    {
+      "sourceSpeciesId": 266,
+      "targetSpeciesId": 267,
+      "method": "level",
+      "parameter": "10",
+      "minLevel": 10
+    }
+  ],
+  "268": [
+    {
+      "sourceSpeciesId": 268,
+      "targetSpeciesId": 269,
+      "method": "level",
+      "parameter": "10",
+      "minLevel": 10
+    }
+  ],
+  "270": [
+    {
+      "sourceSpeciesId": 270,
+      "targetSpeciesId": 271,
+      "method": "level",
+      "parameter": "14",
+      "minLevel": 14
+    }
+  ],
+  "271": [
+    {
+      "sourceSpeciesId": 271,
+      "targetSpeciesId": 272,
+      "method": "item",
+      "parameter": "ITEM_WATER_STONE",
+      "item": "water_stone"
+    }
+  ],
+  "273": [
+    {
+      "sourceSpeciesId": 273,
+      "targetSpeciesId": 274,
+      "method": "level",
+      "parameter": "14",
+      "minLevel": 14
+    }
+  ],
+  "274": [
+    {
+      "sourceSpeciesId": 274,
+      "targetSpeciesId": 275,
+      "method": "item",
+      "parameter": "ITEM_LEAF_STONE",
+      "item": "leaf_stone"
+    }
+  ],
+  "276": [
+    {
+      "sourceSpeciesId": 276,
+      "targetSpeciesId": 277,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "278": [
+    {
+      "sourceSpeciesId": 278,
+      "targetSpeciesId": 279,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "280": [
+    {
+      "sourceSpeciesId": 280,
+      "targetSpeciesId": 281,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "281": [
+    {
+      "sourceSpeciesId": 281,
+      "targetSpeciesId": 282,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "283": [
+    {
+      "sourceSpeciesId": 283,
+      "targetSpeciesId": 284,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "285": [
+    {
+      "sourceSpeciesId": 285,
+      "targetSpeciesId": 286,
+      "method": "level",
+      "parameter": "23",
+      "minLevel": 23
+    }
+  ],
+  "287": [
+    {
+      "sourceSpeciesId": 287,
+      "targetSpeciesId": 288,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "288": [
+    {
+      "sourceSpeciesId": 288,
+      "targetSpeciesId": 289,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "290": [
+    {
+      "sourceSpeciesId": 290,
+      "targetSpeciesId": 291,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "293": [
+    {
+      "sourceSpeciesId": 293,
+      "targetSpeciesId": 294,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "294": [
+    {
+      "sourceSpeciesId": 294,
+      "targetSpeciesId": 295,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "296": [
+    {
+      "sourceSpeciesId": 296,
+      "targetSpeciesId": 297,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "300": [
+    {
+      "sourceSpeciesId": 300,
+      "targetSpeciesId": 301,
+      "method": "item",
+      "parameter": "ITEM_MOON_STONE",
+      "item": "moon_stone"
+    }
+  ],
+  "304": [
+    {
+      "sourceSpeciesId": 304,
+      "targetSpeciesId": 305,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "305": [
+    {
+      "sourceSpeciesId": 305,
+      "targetSpeciesId": 306,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "307": [
+    {
+      "sourceSpeciesId": 307,
+      "targetSpeciesId": 308,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "309": [
+    {
+      "sourceSpeciesId": 309,
+      "targetSpeciesId": 310,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "315": [
+    {
+      "sourceSpeciesId": 315,
+      "targetSpeciesId": 407,
+      "method": "item",
+      "parameter": "ITEM_SHINY_STONE",
+      "item": "shiny_stone"
+    }
+  ],
+  "316": [
+    {
+      "sourceSpeciesId": 316,
+      "targetSpeciesId": 317,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "318": [
+    {
+      "sourceSpeciesId": 318,
+      "targetSpeciesId": 319,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "320": [
+    {
+      "sourceSpeciesId": 320,
+      "targetSpeciesId": 321,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "322": [
+    {
+      "sourceSpeciesId": 322,
+      "targetSpeciesId": 323,
+      "method": "level",
+      "parameter": "33",
+      "minLevel": 33
+    }
+  ],
+  "325": [
+    {
+      "sourceSpeciesId": 325,
+      "targetSpeciesId": 326,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "328": [
+    {
+      "sourceSpeciesId": 328,
+      "targetSpeciesId": 329,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "329": [
+    {
+      "sourceSpeciesId": 329,
+      "targetSpeciesId": 330,
+      "method": "level",
+      "parameter": "45",
+      "minLevel": 45
+    }
+  ],
+  "331": [
+    {
+      "sourceSpeciesId": 331,
+      "targetSpeciesId": 332,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "333": [
+    {
+      "sourceSpeciesId": 333,
+      "targetSpeciesId": 334,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "339": [
+    {
+      "sourceSpeciesId": 339,
+      "targetSpeciesId": 340,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "341": [
+    {
+      "sourceSpeciesId": 341,
+      "targetSpeciesId": 342,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "343": [
+    {
+      "sourceSpeciesId": 343,
+      "targetSpeciesId": 344,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "345": [
+    {
+      "sourceSpeciesId": 345,
+      "targetSpeciesId": 346,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "347": [
+    {
+      "sourceSpeciesId": 347,
+      "targetSpeciesId": 348,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "353": [
+    {
+      "sourceSpeciesId": 353,
+      "targetSpeciesId": 354,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "355": [
+    {
+      "sourceSpeciesId": 355,
+      "targetSpeciesId": 356,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "360": [
+    {
+      "sourceSpeciesId": 360,
+      "targetSpeciesId": 202,
+      "method": "level",
+      "parameter": "15",
+      "minLevel": 15
+    }
+  ],
+  "361": [
+    {
+      "sourceSpeciesId": 361,
+      "targetSpeciesId": 362,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "363": [
+    {
+      "sourceSpeciesId": 363,
+      "targetSpeciesId": 364,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "364": [
+    {
+      "sourceSpeciesId": 364,
+      "targetSpeciesId": 365,
+      "method": "level",
+      "parameter": "44",
+      "minLevel": 44
+    }
+  ],
+  "371": [
+    {
+      "sourceSpeciesId": 371,
+      "targetSpeciesId": 372,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "372": [
+    {
+      "sourceSpeciesId": 372,
+      "targetSpeciesId": 373,
+      "method": "level",
+      "parameter": "50",
+      "minLevel": 50
+    }
+  ],
+  "374": [
+    {
+      "sourceSpeciesId": 374,
+      "targetSpeciesId": 375,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "375": [
+    {
+      "sourceSpeciesId": 375,
+      "targetSpeciesId": 376,
+      "method": "level",
+      "parameter": "45",
+      "minLevel": 45
+    }
+  ],
+  "387": [
+    {
+      "sourceSpeciesId": 387,
+      "targetSpeciesId": 388,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "388": [
+    {
+      "sourceSpeciesId": 388,
+      "targetSpeciesId": 389,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "390": [
+    {
+      "sourceSpeciesId": 390,
+      "targetSpeciesId": 391,
+      "method": "level",
+      "parameter": "14",
+      "minLevel": 14
+    }
+  ],
+  "391": [
+    {
+      "sourceSpeciesId": 391,
+      "targetSpeciesId": 392,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "393": [
+    {
+      "sourceSpeciesId": 393,
+      "targetSpeciesId": 394,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "394": [
+    {
+      "sourceSpeciesId": 394,
+      "targetSpeciesId": 395,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "396": [
+    {
+      "sourceSpeciesId": 396,
+      "targetSpeciesId": 397,
+      "method": "level",
+      "parameter": "14",
+      "minLevel": 14
+    }
+  ],
+  "397": [
+    {
+      "sourceSpeciesId": 397,
+      "targetSpeciesId": 398,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "399": [
+    {
+      "sourceSpeciesId": 399,
+      "targetSpeciesId": 400,
+      "method": "level",
+      "parameter": "15",
+      "minLevel": 15
+    }
+  ],
+  "401": [
+    {
+      "sourceSpeciesId": 401,
+      "targetSpeciesId": 402,
+      "method": "level",
+      "parameter": "10",
+      "minLevel": 10
+    }
+  ],
+  "403": [
+    {
+      "sourceSpeciesId": 403,
+      "targetSpeciesId": 404,
+      "method": "level",
+      "parameter": "15",
+      "minLevel": 15
+    }
+  ],
+  "404": [
+    {
+      "sourceSpeciesId": 404,
+      "targetSpeciesId": 405,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "408": [
+    {
+      "sourceSpeciesId": 408,
+      "targetSpeciesId": 409,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "410": [
+    {
+      "sourceSpeciesId": 410,
+      "targetSpeciesId": 411,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "418": [
+    {
+      "sourceSpeciesId": 418,
+      "targetSpeciesId": 419,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "420": [
+    {
+      "sourceSpeciesId": 420,
+      "targetSpeciesId": 421,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "422": [
+    {
+      "sourceSpeciesId": 422,
+      "targetSpeciesId": 423,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "425": [
+    {
+      "sourceSpeciesId": 425,
+      "targetSpeciesId": 426,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "431": [
+    {
+      "sourceSpeciesId": 431,
+      "targetSpeciesId": 432,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "434": [
+    {
+      "sourceSpeciesId": 434,
+      "targetSpeciesId": 435,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "436": [
+    {
+      "sourceSpeciesId": 436,
+      "targetSpeciesId": 437,
+      "method": "level",
+      "parameter": "33",
+      "minLevel": 33
+    }
+  ],
+  "443": [
+    {
+      "sourceSpeciesId": 443,
+      "targetSpeciesId": 444,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "444": [
+    {
+      "sourceSpeciesId": 444,
+      "targetSpeciesId": 445,
+      "method": "level",
+      "parameter": "48",
+      "minLevel": 48
+    }
+  ],
+  "449": [
+    {
+      "sourceSpeciesId": 449,
+      "targetSpeciesId": 450,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "451": [
+    {
+      "sourceSpeciesId": 451,
+      "targetSpeciesId": 452,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "453": [
+    {
+      "sourceSpeciesId": 453,
+      "targetSpeciesId": 454,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "456": [
+    {
+      "sourceSpeciesId": 456,
+      "targetSpeciesId": 457,
+      "method": "level",
+      "parameter": "31",
+      "minLevel": 31
+    }
+  ],
+  "459": [
+    {
+      "sourceSpeciesId": 459,
+      "targetSpeciesId": 460,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "495": [
+    {
+      "sourceSpeciesId": 495,
+      "targetSpeciesId": 496,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "496": [
+    {
+      "sourceSpeciesId": 496,
+      "targetSpeciesId": 497,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "498": [
+    {
+      "sourceSpeciesId": 498,
+      "targetSpeciesId": 499,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "499": [
+    {
+      "sourceSpeciesId": 499,
+      "targetSpeciesId": 500,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "501": [
+    {
+      "sourceSpeciesId": 501,
+      "targetSpeciesId": 502,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "504": [
+    {
+      "sourceSpeciesId": 504,
+      "targetSpeciesId": 505,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "506": [
+    {
+      "sourceSpeciesId": 506,
+      "targetSpeciesId": 507,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "507": [
+    {
+      "sourceSpeciesId": 507,
+      "targetSpeciesId": 508,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "509": [
+    {
+      "sourceSpeciesId": 509,
+      "targetSpeciesId": 510,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "511": [
+    {
+      "sourceSpeciesId": 511,
+      "targetSpeciesId": 512,
+      "method": "item",
+      "parameter": "ITEM_LEAF_STONE",
+      "item": "leaf_stone"
+    }
+  ],
+  "513": [
+    {
+      "sourceSpeciesId": 513,
+      "targetSpeciesId": 514,
+      "method": "item",
+      "parameter": "ITEM_FIRE_STONE",
+      "item": "fire_stone"
+    }
+  ],
+  "515": [
+    {
+      "sourceSpeciesId": 515,
+      "targetSpeciesId": 516,
+      "method": "item",
+      "parameter": "ITEM_WATER_STONE",
+      "item": "water_stone"
+    }
+  ],
+  "517": [
+    {
+      "sourceSpeciesId": 517,
+      "targetSpeciesId": 518,
+      "method": "item",
+      "parameter": "ITEM_MOON_STONE",
+      "item": "moon_stone"
+    }
+  ],
+  "519": [
+    {
+      "sourceSpeciesId": 519,
+      "targetSpeciesId": 520,
+      "method": "level",
+      "parameter": "21",
+      "minLevel": 21
+    }
+  ],
+  "520": [
+    {
+      "sourceSpeciesId": 520,
+      "targetSpeciesId": 521,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "522": [
+    {
+      "sourceSpeciesId": 522,
+      "targetSpeciesId": 523,
+      "method": "level",
+      "parameter": "27",
+      "minLevel": 27
+    }
+  ],
+  "524": [
+    {
+      "sourceSpeciesId": 524,
+      "targetSpeciesId": 525,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "525": [
+    {
+      "sourceSpeciesId": 525,
+      "targetSpeciesId": 526,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 525,
+      "targetSpeciesId": 526,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "529": [
+    {
+      "sourceSpeciesId": 529,
+      "targetSpeciesId": 530,
+      "method": "level",
+      "parameter": "31",
+      "minLevel": 31
+    }
+  ],
+  "532": [
+    {
+      "sourceSpeciesId": 532,
+      "targetSpeciesId": 533,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "533": [
+    {
+      "sourceSpeciesId": 533,
+      "targetSpeciesId": 534,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 533,
+      "targetSpeciesId": 534,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "535": [
+    {
+      "sourceSpeciesId": 535,
+      "targetSpeciesId": 536,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "536": [
+    {
+      "sourceSpeciesId": 536,
+      "targetSpeciesId": 537,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "540": [
+    {
+      "sourceSpeciesId": 540,
+      "targetSpeciesId": 541,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "543": [
+    {
+      "sourceSpeciesId": 543,
+      "targetSpeciesId": 544,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "544": [
+    {
+      "sourceSpeciesId": 544,
+      "targetSpeciesId": 545,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "546": [
+    {
+      "sourceSpeciesId": 546,
+      "targetSpeciesId": 547,
+      "method": "item",
+      "parameter": "ITEM_SUN_STONE",
+      "item": "sun_stone"
+    }
+  ],
+  "551": [
+    {
+      "sourceSpeciesId": 551,
+      "targetSpeciesId": 552,
+      "method": "level",
+      "parameter": "29",
+      "minLevel": 29
+    }
+  ],
+  "552": [
+    {
+      "sourceSpeciesId": 552,
+      "targetSpeciesId": 553,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "554": [
+    {
+      "sourceSpeciesId": 554,
+      "targetSpeciesId": 555,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "557": [
+    {
+      "sourceSpeciesId": 557,
+      "targetSpeciesId": 558,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "559": [
+    {
+      "sourceSpeciesId": 559,
+      "targetSpeciesId": 560,
+      "method": "level",
+      "parameter": "39",
+      "minLevel": 39
+    }
+  ],
+  "562": [
+    {
+      "sourceSpeciesId": 562,
+      "targetSpeciesId": 563,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "564": [
+    {
+      "sourceSpeciesId": 564,
+      "targetSpeciesId": 565,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "566": [
+    {
+      "sourceSpeciesId": 566,
+      "targetSpeciesId": 567,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "568": [
+    {
+      "sourceSpeciesId": 568,
+      "targetSpeciesId": 569,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "570": [
+    {
+      "sourceSpeciesId": 570,
+      "targetSpeciesId": 571,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "572": [
+    {
+      "sourceSpeciesId": 572,
+      "targetSpeciesId": 573,
+      "method": "item",
+      "parameter": "ITEM_SHINY_STONE",
+      "item": "shiny_stone"
+    }
+  ],
+  "574": [
+    {
+      "sourceSpeciesId": 574,
+      "targetSpeciesId": 575,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "575": [
+    {
+      "sourceSpeciesId": 575,
+      "targetSpeciesId": 576,
+      "method": "level",
+      "parameter": "41",
+      "minLevel": 41
+    }
+  ],
+  "577": [
+    {
+      "sourceSpeciesId": 577,
+      "targetSpeciesId": 578,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "578": [
+    {
+      "sourceSpeciesId": 578,
+      "targetSpeciesId": 579,
+      "method": "level",
+      "parameter": "41",
+      "minLevel": 41
+    }
+  ],
+  "580": [
+    {
+      "sourceSpeciesId": 580,
+      "targetSpeciesId": 581,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "582": [
+    {
+      "sourceSpeciesId": 582,
+      "targetSpeciesId": 583,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "583": [
+    {
+      "sourceSpeciesId": 583,
+      "targetSpeciesId": 584,
+      "method": "level",
+      "parameter": "47",
+      "minLevel": 47
+    }
+  ],
+  "585": [
+    {
+      "sourceSpeciesId": 585,
+      "targetSpeciesId": 586,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "590": [
+    {
+      "sourceSpeciesId": 590,
+      "targetSpeciesId": 591,
+      "method": "level",
+      "parameter": "39",
+      "minLevel": 39
+    }
+  ],
+  "592": [
+    {
+      "sourceSpeciesId": 592,
+      "targetSpeciesId": 593,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "595": [
+    {
+      "sourceSpeciesId": 595,
+      "targetSpeciesId": 596,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "597": [
+    {
+      "sourceSpeciesId": 597,
+      "targetSpeciesId": 598,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "599": [
+    {
+      "sourceSpeciesId": 599,
+      "targetSpeciesId": 600,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "600": [
+    {
+      "sourceSpeciesId": 600,
+      "targetSpeciesId": 601,
+      "method": "level",
+      "parameter": "49",
+      "minLevel": 49
+    }
+  ],
+  "602": [
+    {
+      "sourceSpeciesId": 602,
+      "targetSpeciesId": 603,
+      "method": "level",
+      "parameter": "39",
+      "minLevel": 39
+    }
+  ],
+  "603": [
+    {
+      "sourceSpeciesId": 603,
+      "targetSpeciesId": 604,
+      "method": "item",
+      "parameter": "ITEM_THUNDER_STONE",
+      "item": "thunder_stone"
+    }
+  ],
+  "605": [
+    {
+      "sourceSpeciesId": 605,
+      "targetSpeciesId": 606,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "607": [
+    {
+      "sourceSpeciesId": 607,
+      "targetSpeciesId": 608,
+      "method": "level",
+      "parameter": "41",
+      "minLevel": 41
+    }
+  ],
+  "608": [
+    {
+      "sourceSpeciesId": 608,
+      "targetSpeciesId": 609,
+      "method": "item",
+      "parameter": "ITEM_DUSK_STONE",
+      "item": "dusk_stone"
+    }
+  ],
+  "610": [
+    {
+      "sourceSpeciesId": 610,
+      "targetSpeciesId": 611,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "611": [
+    {
+      "sourceSpeciesId": 611,
+      "targetSpeciesId": 612,
+      "method": "level",
+      "parameter": "48",
+      "minLevel": 48
+    }
+  ],
+  "613": [
+    {
+      "sourceSpeciesId": 613,
+      "targetSpeciesId": 614,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "619": [
+    {
+      "sourceSpeciesId": 619,
+      "targetSpeciesId": 620,
+      "method": "level",
+      "parameter": "50",
+      "minLevel": 50
+    }
+  ],
+  "622": [
+    {
+      "sourceSpeciesId": 622,
+      "targetSpeciesId": 623,
+      "method": "level",
+      "parameter": "43",
+      "minLevel": 43
+    }
+  ],
+  "624": [
+    {
+      "sourceSpeciesId": 624,
+      "targetSpeciesId": 625,
+      "method": "level",
+      "parameter": "52",
+      "minLevel": 52
+    }
+  ],
+  "629": [
+    {
+      "sourceSpeciesId": 629,
+      "targetSpeciesId": 630,
+      "method": "level",
+      "parameter": "54",
+      "minLevel": 54
+    }
+  ],
+  "633": [
+    {
+      "sourceSpeciesId": 633,
+      "targetSpeciesId": 634,
+      "method": "level",
+      "parameter": "50",
+      "minLevel": 50
+    }
+  ],
+  "634": [
+    {
+      "sourceSpeciesId": 634,
+      "targetSpeciesId": 635,
+      "method": "level",
+      "parameter": "64",
+      "minLevel": 64
+    }
+  ],
+  "636": [
+    {
+      "sourceSpeciesId": 636,
+      "targetSpeciesId": 637,
+      "method": "level",
+      "parameter": "59",
+      "minLevel": 59
+    }
+  ],
+  "650": [
+    {
+      "sourceSpeciesId": 650,
+      "targetSpeciesId": 651,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "651": [
+    {
+      "sourceSpeciesId": 651,
+      "targetSpeciesId": 652,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "653": [
+    {
+      "sourceSpeciesId": 653,
+      "targetSpeciesId": 654,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "654": [
+    {
+      "sourceSpeciesId": 654,
+      "targetSpeciesId": 655,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "656": [
+    {
+      "sourceSpeciesId": 656,
+      "targetSpeciesId": 657,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "657": [
+    {
+      "sourceSpeciesId": 657,
+      "targetSpeciesId": 658,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "659": [
+    {
+      "sourceSpeciesId": 659,
+      "targetSpeciesId": 660,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "661": [
+    {
+      "sourceSpeciesId": 661,
+      "targetSpeciesId": 662,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "662": [
+    {
+      "sourceSpeciesId": 662,
+      "targetSpeciesId": 663,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "667": [
+    {
+      "sourceSpeciesId": 667,
+      "targetSpeciesId": 668,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "672": [
+    {
+      "sourceSpeciesId": 672,
+      "targetSpeciesId": 673,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "679": [
+    {
+      "sourceSpeciesId": 679,
+      "targetSpeciesId": 680,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "680": [
+    {
+      "sourceSpeciesId": 680,
+      "targetSpeciesId": 681,
+      "method": "item",
+      "parameter": "ITEM_DUSK_STONE",
+      "item": "dusk_stone"
+    }
+  ],
+  "686": [
+    {
+      "sourceSpeciesId": 686,
+      "targetSpeciesId": 687,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "688": [
+    {
+      "sourceSpeciesId": 688,
+      "targetSpeciesId": 689,
+      "method": "level",
+      "parameter": "39",
+      "minLevel": 39
+    }
+  ],
+  "690": [
+    {
+      "sourceSpeciesId": 690,
+      "targetSpeciesId": 691,
+      "method": "level",
+      "parameter": "48",
+      "minLevel": 48
+    }
+  ],
+  "692": [
+    {
+      "sourceSpeciesId": 692,
+      "targetSpeciesId": 693,
+      "method": "level",
+      "parameter": "37",
+      "minLevel": 37
+    }
+  ],
+  "694": [
+    {
+      "sourceSpeciesId": 694,
+      "targetSpeciesId": 695,
+      "method": "item",
+      "parameter": "ITEM_SUN_STONE",
+      "item": "sun_stone"
+    }
+  ],
+  "708": [
+    {
+      "sourceSpeciesId": 708,
+      "targetSpeciesId": 709,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 708,
+      "targetSpeciesId": 709,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "710": [
+    {
+      "sourceSpeciesId": 710,
+      "targetSpeciesId": 711,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 710,
+      "targetSpeciesId": 711,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "714": [
+    {
+      "sourceSpeciesId": 714,
+      "targetSpeciesId": 715,
+      "method": "level",
+      "parameter": "48",
+      "minLevel": 48
+    }
+  ],
+  "722": [
+    {
+      "sourceSpeciesId": 722,
+      "targetSpeciesId": 723,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "725": [
+    {
+      "sourceSpeciesId": 725,
+      "targetSpeciesId": 726,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "726": [
+    {
+      "sourceSpeciesId": 726,
+      "targetSpeciesId": 727,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "728": [
+    {
+      "sourceSpeciesId": 728,
+      "targetSpeciesId": 729,
+      "method": "level",
+      "parameter": "17",
+      "minLevel": 17
+    }
+  ],
+  "729": [
+    {
+      "sourceSpeciesId": 729,
+      "targetSpeciesId": 730,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "731": [
+    {
+      "sourceSpeciesId": 731,
+      "targetSpeciesId": 732,
+      "method": "level",
+      "parameter": "14",
+      "minLevel": 14
+    }
+  ],
+  "732": [
+    {
+      "sourceSpeciesId": 732,
+      "targetSpeciesId": 733,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "736": [
+    {
+      "sourceSpeciesId": 736,
+      "targetSpeciesId": 737,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "742": [
+    {
+      "sourceSpeciesId": 742,
+      "targetSpeciesId": 743,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    },
+    {
+      "sourceSpeciesId": 742,
+      "targetSpeciesId": 1484,
+      "method": "none",
+      "parameter": "0"
+    }
+  ],
+  "747": [
+    {
+      "sourceSpeciesId": 747,
+      "targetSpeciesId": 748,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "749": [
+    {
+      "sourceSpeciesId": 749,
+      "targetSpeciesId": 750,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "751": [
+    {
+      "sourceSpeciesId": 751,
+      "targetSpeciesId": 752,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    },
+    {
+      "sourceSpeciesId": 751,
+      "targetSpeciesId": 1485,
+      "method": "none",
+      "parameter": "0"
+    }
+  ],
+  "755": [
+    {
+      "sourceSpeciesId": 755,
+      "targetSpeciesId": 756,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "759": [
+    {
+      "sourceSpeciesId": 759,
+      "targetSpeciesId": 760,
+      "method": "level",
+      "parameter": "27",
+      "minLevel": 27
+    }
+  ],
+  "761": [
+    {
+      "sourceSpeciesId": 761,
+      "targetSpeciesId": 762,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "767": [
+    {
+      "sourceSpeciesId": 767,
+      "targetSpeciesId": 768,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "769": [
+    {
+      "sourceSpeciesId": 769,
+      "targetSpeciesId": 770,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "782": [
+    {
+      "sourceSpeciesId": 782,
+      "targetSpeciesId": 783,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "783": [
+    {
+      "sourceSpeciesId": 783,
+      "targetSpeciesId": 784,
+      "method": "level",
+      "parameter": "45",
+      "minLevel": 45
+    },
+    {
+      "sourceSpeciesId": 783,
+      "targetSpeciesId": 1482,
+      "method": "none",
+      "parameter": "0"
+    }
+  ],
+  "789": [
+    {
+      "sourceSpeciesId": 789,
+      "targetSpeciesId": 790,
+      "method": "level",
+      "parameter": "43",
+      "minLevel": 43
+    }
+  ],
+  "810": [
+    {
+      "sourceSpeciesId": 810,
+      "targetSpeciesId": 811,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "811": [
+    {
+      "sourceSpeciesId": 811,
+      "targetSpeciesId": 812,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "813": [
+    {
+      "sourceSpeciesId": 813,
+      "targetSpeciesId": 814,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "814": [
+    {
+      "sourceSpeciesId": 814,
+      "targetSpeciesId": 815,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "816": [
+    {
+      "sourceSpeciesId": 816,
+      "targetSpeciesId": 817,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "817": [
+    {
+      "sourceSpeciesId": 817,
+      "targetSpeciesId": 818,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "819": [
+    {
+      "sourceSpeciesId": 819,
+      "targetSpeciesId": 820,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "821": [
+    {
+      "sourceSpeciesId": 821,
+      "targetSpeciesId": 822,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "822": [
+    {
+      "sourceSpeciesId": 822,
+      "targetSpeciesId": 823,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "824": [
+    {
+      "sourceSpeciesId": 824,
+      "targetSpeciesId": 825,
+      "method": "level",
+      "parameter": "10",
+      "minLevel": 10
+    }
+  ],
+  "825": [
+    {
+      "sourceSpeciesId": 825,
+      "targetSpeciesId": 826,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "827": [
+    {
+      "sourceSpeciesId": 827,
+      "targetSpeciesId": 828,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "829": [
+    {
+      "sourceSpeciesId": 829,
+      "targetSpeciesId": 830,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "831": [
+    {
+      "sourceSpeciesId": 831,
+      "targetSpeciesId": 832,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "833": [
+    {
+      "sourceSpeciesId": 833,
+      "targetSpeciesId": 834,
+      "method": "level",
+      "parameter": "22",
+      "minLevel": 22
+    }
+  ],
+  "835": [
+    {
+      "sourceSpeciesId": 835,
+      "targetSpeciesId": 836,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "837": [
+    {
+      "sourceSpeciesId": 837,
+      "targetSpeciesId": 838,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "838": [
+    {
+      "sourceSpeciesId": 838,
+      "targetSpeciesId": 839,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "840": [
+    {
+      "sourceSpeciesId": 840,
+      "targetSpeciesId": 841,
+      "method": "item",
+      "parameter": "ITEM_TART_APPLE",
+      "item": "tart_apple"
+    },
+    {
+      "sourceSpeciesId": 840,
+      "targetSpeciesId": 842,
+      "method": "item",
+      "parameter": "ITEM_SWEET_APPLE",
+      "item": "sweet_apple"
+    },
+    {
+      "sourceSpeciesId": 840,
+      "targetSpeciesId": 1408,
+      "method": "item",
+      "parameter": "ITEM_SYRUPY_APPLE",
+      "item": "syrupy_apple"
+    }
+  ],
+  "843": [
+    {
+      "sourceSpeciesId": 843,
+      "targetSpeciesId": 844,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "846": [
+    {
+      "sourceSpeciesId": 846,
+      "targetSpeciesId": 847,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "850": [
+    {
+      "sourceSpeciesId": 850,
+      "targetSpeciesId": 851,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "854": [
+    {
+      "sourceSpeciesId": 854,
+      "targetSpeciesId": 855,
+      "method": "item",
+      "parameter": "ITEM_CRACKED_POT",
+      "item": "cracked_pot"
+    }
+  ],
+  "856": [
+    {
+      "sourceSpeciesId": 856,
+      "targetSpeciesId": 857,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "857": [
+    {
+      "sourceSpeciesId": 857,
+      "targetSpeciesId": 858,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "859": [
+    {
+      "sourceSpeciesId": 859,
+      "targetSpeciesId": 860,
+      "method": "level",
+      "parameter": "32",
+      "minLevel": 32
+    }
+  ],
+  "860": [
+    {
+      "sourceSpeciesId": 860,
+      "targetSpeciesId": 861,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "878": [
+    {
+      "sourceSpeciesId": 878,
+      "targetSpeciesId": 879,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "884": [
+    {
+      "sourceSpeciesId": 884,
+      "targetSpeciesId": 1425,
+      "method": "item",
+      "parameter": "ITEM_METAL_ALLOY",
+      "item": "metal_alloy"
+    }
+  ],
+  "885": [
+    {
+      "sourceSpeciesId": 885,
+      "targetSpeciesId": 886,
+      "method": "level",
+      "parameter": "50",
+      "minLevel": 50
+    }
+  ],
+  "886": [
+    {
+      "sourceSpeciesId": 886,
+      "targetSpeciesId": 887,
+      "method": "level",
+      "parameter": "60",
+      "minLevel": 60
+    }
+  ],
+  "891": [
+    {
+      "sourceSpeciesId": 891,
+      "targetSpeciesId": 892,
+      "method": "script_trigger",
+      "parameter": "EVO_TRIGGER_DARK_SCROLL"
+    },
+    {
+      "sourceSpeciesId": 891,
+      "targetSpeciesId": 1230,
+      "method": "script_trigger",
+      "parameter": "EVO_TRIGGER_WATER_SCROLL"
+    },
+    {
+      "sourceSpeciesId": 891,
+      "targetSpeciesId": 892,
+      "method": "item",
+      "parameter": "ITEM_SCROLL_OF_DARKNESS",
+      "item": "scroll_of_darkness"
+    },
+    {
+      "sourceSpeciesId": 891,
+      "targetSpeciesId": 1230,
+      "method": "item",
+      "parameter": "ITEM_SCROLL_OF_WATERS",
+      "item": "scroll_of_waters"
+    }
+  ],
+  "959": [
+    {
+      "sourceSpeciesId": 959,
+      "targetSpeciesId": 960,
+      "method": "item",
+      "parameter": "ITEM_ICE_STONE",
+      "item": "ice_stone"
+    }
+  ],
+  "961": [
+    {
+      "sourceSpeciesId": 961,
+      "targetSpeciesId": 962,
+      "method": "item",
+      "parameter": "ITEM_ICE_STONE",
+      "item": "ice_stone"
+    }
+  ],
+  "963": [
+    {
+      "sourceSpeciesId": 963,
+      "targetSpeciesId": 964,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "967": [
+    {
+      "sourceSpeciesId": 967,
+      "targetSpeciesId": 968,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "968": [
+    {
+      "sourceSpeciesId": 968,
+      "targetSpeciesId": 969,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 968,
+      "targetSpeciesId": 969,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "970": [
+    {
+      "sourceSpeciesId": 970,
+      "targetSpeciesId": 971,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "974": [
+    {
+      "sourceSpeciesId": 974,
+      "targetSpeciesId": 863,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "975": [
+    {
+      "sourceSpeciesId": 975,
+      "targetSpeciesId": 976,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "977": [
+    {
+      "sourceSpeciesId": 977,
+      "targetSpeciesId": 978,
+      "method": "item",
+      "parameter": "ITEM_GALARICA_CUFF",
+      "item": "galarica_cuff"
+    },
+    {
+      "sourceSpeciesId": 977,
+      "targetSpeciesId": 985,
+      "method": "item",
+      "parameter": "ITEM_GALARICA_WREATH",
+      "item": "galarica_wreath"
+    }
+  ],
+  "981": [
+    {
+      "sourceSpeciesId": 981,
+      "targetSpeciesId": 866,
+      "method": "level",
+      "parameter": "42",
+      "minLevel": 42
+    }
+  ],
+  "986": [
+    {
+      "sourceSpeciesId": 986,
+      "targetSpeciesId": 864,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "987": [
+    {
+      "sourceSpeciesId": 987,
+      "targetSpeciesId": 988,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "989": [
+    {
+      "sourceSpeciesId": 989,
+      "targetSpeciesId": 990,
+      "method": "item",
+      "parameter": "ITEM_ICE_STONE",
+      "item": "ice_stone"
+    }
+  ],
+  "993": [
+    {
+      "sourceSpeciesId": 993,
+      "targetSpeciesId": 994,
+      "method": "item",
+      "parameter": "ITEM_FIRE_STONE",
+      "item": "fire_stone"
+    }
+  ],
+  "995": [
+    {
+      "sourceSpeciesId": 995,
+      "targetSpeciesId": 996,
+      "method": "item",
+      "parameter": "ITEM_LEAF_STONE",
+      "item": "leaf_stone"
+    }
+  ],
+  "1002": [
+    {
+      "sourceSpeciesId": 1002,
+      "targetSpeciesId": 1003,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "1062": [
+    {
+      "sourceSpeciesId": 1062,
+      "targetSpeciesId": 1063,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "1094": [
+    {
+      "sourceSpeciesId": 1094,
+      "targetSpeciesId": 1097,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "1095": [
+    {
+      "sourceSpeciesId": 1095,
+      "targetSpeciesId": 1098,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "1096": [
+    {
+      "sourceSpeciesId": 1096,
+      "targetSpeciesId": 1099,
+      "method": "level",
+      "parameter": "34",
+      "minLevel": 34
+    }
+  ],
+  "1157": [
+    {
+      "sourceSpeciesId": 1157,
+      "targetSpeciesId": 1160,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 1157,
+      "targetSpeciesId": 1160,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "1158": [
+    {
+      "sourceSpeciesId": 1158,
+      "targetSpeciesId": 1161,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 1158,
+      "targetSpeciesId": 1161,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "1159": [
+    {
+      "sourceSpeciesId": 1159,
+      "targetSpeciesId": 1162,
+      "method": "trade",
+      "parameter": "0"
+    },
+    {
+      "sourceSpeciesId": 1159,
+      "targetSpeciesId": 1162,
+      "method": "item",
+      "parameter": "ITEM_LINKING_CORD",
+      "item": "linking_cord"
+    }
+  ],
+  "1214": [
+    {
+      "sourceSpeciesId": 1214,
+      "targetSpeciesId": 1215,
+      "method": "item",
+      "parameter": "ITEM_CHIPPED_POT",
+      "item": "chipped_pot"
+    }
+  ],
+  "1289": [
+    {
+      "sourceSpeciesId": 1289,
+      "targetSpeciesId": 1290,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "1290": [
+    {
+      "sourceSpeciesId": 1290,
+      "targetSpeciesId": 1291,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "1292": [
+    {
+      "sourceSpeciesId": 1292,
+      "targetSpeciesId": 1293,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "1293": [
+    {
+      "sourceSpeciesId": 1293,
+      "targetSpeciesId": 1294,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "1295": [
+    {
+      "sourceSpeciesId": 1295,
+      "targetSpeciesId": 1296,
+      "method": "level",
+      "parameter": "16",
+      "minLevel": 16
+    }
+  ],
+  "1296": [
+    {
+      "sourceSpeciesId": 1296,
+      "targetSpeciesId": 1297,
+      "method": "level",
+      "parameter": "36",
+      "minLevel": 36
+    }
+  ],
+  "1301": [
+    {
+      "sourceSpeciesId": 1301,
+      "targetSpeciesId": 1302,
+      "method": "level",
+      "parameter": "15",
+      "minLevel": 15
+    }
+  ],
+  "1303": [
+    {
+      "sourceSpeciesId": 1303,
+      "targetSpeciesId": 1304,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "1305": [
+    {
+      "sourceSpeciesId": 1305,
+      "targetSpeciesId": 1306,
+      "method": "level",
+      "parameter": "18",
+      "minLevel": 18
+    }
+  ],
+  "1311": [
+    {
+      "sourceSpeciesId": 1311,
+      "targetSpeciesId": 1312,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "1313": [
+    {
+      "sourceSpeciesId": 1313,
+      "targetSpeciesId": 1314,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "1314": [
+    {
+      "sourceSpeciesId": 1314,
+      "targetSpeciesId": 1315,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "1320": [
+    {
+      "sourceSpeciesId": 1320,
+      "targetSpeciesId": 1321,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "1321": [
+    {
+      "sourceSpeciesId": 1321,
+      "targetSpeciesId": 1322,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "1323": [
+    {
+      "sourceSpeciesId": 1323,
+      "targetSpeciesId": 1324,
+      "method": "item",
+      "parameter": "ITEM_AUSPICIOUS_ARMOR",
+      "item": "auspicious_armor"
+    },
+    {
+      "sourceSpeciesId": 1323,
+      "targetSpeciesId": 1325,
+      "method": "item",
+      "parameter": "ITEM_MALICIOUS_ARMOR",
+      "item": "malicious_armor"
+    }
+  ],
+  "1326": [
+    {
+      "sourceSpeciesId": 1326,
+      "targetSpeciesId": 1327,
+      "method": "item",
+      "parameter": "ITEM_THUNDER_STONE",
+      "item": "thunder_stone"
+    }
+  ],
+  "1328": [
+    {
+      "sourceSpeciesId": 1328,
+      "targetSpeciesId": 1329,
+      "method": "level",
+      "parameter": "25",
+      "minLevel": 25
+    }
+  ],
+  "1330": [
+    {
+      "sourceSpeciesId": 1330,
+      "targetSpeciesId": 1331,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "1332": [
+    {
+      "sourceSpeciesId": 1332,
+      "targetSpeciesId": 1333,
+      "method": "level",
+      "parameter": "28",
+      "minLevel": 28
+    }
+  ],
+  "1336": [
+    {
+      "sourceSpeciesId": 1336,
+      "targetSpeciesId": 1337,
+      "method": "level",
+      "parameter": "30",
+      "minLevel": 30
+    }
+  ],
+  "1339": [
+    {
+      "sourceSpeciesId": 1339,
+      "targetSpeciesId": 1340,
+      "method": "item",
+      "parameter": "ITEM_FIRE_STONE",
+      "item": "fire_stone"
+    }
+  ],
+  "1343": [
+    {
+      "sourceSpeciesId": 1343,
+      "targetSpeciesId": 1344,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "1345": [
+    {
+      "sourceSpeciesId": 1345,
+      "targetSpeciesId": 1346,
+      "method": "level",
+      "parameter": "24",
+      "minLevel": 24
+    }
+  ],
+  "1346": [
+    {
+      "sourceSpeciesId": 1346,
+      "targetSpeciesId": 1347,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "1348": [
+    {
+      "sourceSpeciesId": 1348,
+      "targetSpeciesId": 1349,
+      "method": "level",
+      "parameter": "26",
+      "minLevel": 26
+    }
+  ],
+  "1351": [
+    {
+      "sourceSpeciesId": 1351,
+      "targetSpeciesId": 1352,
+      "method": "level",
+      "parameter": "38",
+      "minLevel": 38
+    }
+  ],
+  "1354": [
+    {
+      "sourceSpeciesId": 1354,
+      "targetSpeciesId": 1355,
+      "method": "level",
+      "parameter": "40",
+      "minLevel": 40
+    }
+  ],
+  "1358": [
+    {
+      "sourceSpeciesId": 1358,
+      "targetSpeciesId": 1359,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "1363": [
+    {
+      "sourceSpeciesId": 1363,
+      "targetSpeciesId": 1364,
+      "method": "item",
+      "parameter": "ITEM_ICE_STONE",
+      "item": "ice_stone"
+    }
+  ],
+  "1388": [
+    {
+      "sourceSpeciesId": 1388,
+      "targetSpeciesId": 1389,
+      "method": "level",
+      "parameter": "35",
+      "minLevel": 35
+    }
+  ],
+  "1389": [
+    {
+      "sourceSpeciesId": 1389,
+      "targetSpeciesId": 1390,
+      "method": "level",
+      "parameter": "54",
+      "minLevel": 54
+    }
+  ],
+  "1405": [
+    {
+      "sourceSpeciesId": 1405,
+      "targetSpeciesId": 1371,
+      "method": "level",
+      "parameter": "20",
+      "minLevel": 20
+    }
+  ],
+  "1409": [
+    {
+      "sourceSpeciesId": 1409,
+      "targetSpeciesId": 1411,
+      "method": "item",
+      "parameter": "ITEM_UNREMARKABLE_TEACUP",
+      "item": "unremarkable_teacup"
+    }
+  ],
+  "1410": [
+    {
+      "sourceSpeciesId": 1410,
+      "targetSpeciesId": 1412,
+      "method": "item",
+      "parameter": "ITEM_MASTERPIECE_TEACUP",
+      "item": "masterpiece_teacup"
+    }
+  ]
+}

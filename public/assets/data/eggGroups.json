@@ -1,0 +1,77 @@
+[
+  {
+    "id": "monster",
+    "name": "Monster",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "water1",
+    "name": "Water 1",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "bug",
+    "name": "Bug",
+    "hatchStepMultiplier": 0.8
+  },
+  {
+    "id": "flying",
+    "name": "Flying",
+    "hatchStepMultiplier": 0.9
+  },
+  {
+    "id": "field",
+    "name": "Field",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "fairy",
+    "name": "Fairy",
+    "hatchStepMultiplier": 0.9
+  },
+  {
+    "id": "grass",
+    "name": "Grass",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "human_like",
+    "name": "Human-Like",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "water3",
+    "name": "Water 3",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "mineral",
+    "name": "Mineral",
+    "hatchStepMultiplier": 1.1
+  },
+  {
+    "id": "amorphous",
+    "name": "Amorphous",
+    "hatchStepMultiplier": 1.1
+  },
+  {
+    "id": "water2",
+    "name": "Water 2",
+    "hatchStepMultiplier": 1
+  },
+  {
+    "id": "dragon",
+    "name": "Dragon",
+    "hatchStepMultiplier": 1.3
+  },
+  {
+    "id": "undiscovered",
+    "name": "Undiscovered",
+    "hatchStepMultiplier": 1.5
+  },
+  {
+    "id": "ditto",
+    "name": "Ditto",
+    "hatchStepMultiplier": 1
+  }
+]

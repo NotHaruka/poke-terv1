@@ -1,0 +1,4447 @@
+{
+  "3": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 3
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 906
+    },
+    {
+      "formId": 2,
+      "formName": "_gmax",
+      "speciesId": 1489
+    }
+  ],
+  "6": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 6
+    },
+    {
+      "formId": 1,
+      "formName": "_mega_x",
+      "speciesId": 907
+    },
+    {
+      "formId": 2,
+      "formName": "_mega_y",
+      "speciesId": 908
+    },
+    {
+      "formId": 3,
+      "formName": "_gmax",
+      "speciesId": 1491
+    }
+  ],
+  "9": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 9
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 909
+    },
+    {
+      "formId": 2,
+      "formName": "_gmax",
+      "speciesId": 1490
+    }
+  ],
+  "12": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 12
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1492
+    }
+  ],
+  "15": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 15
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 910
+    }
+  ],
+  "18": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 18
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 911
+    }
+  ],
+  "19": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 19
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 956
+    }
+  ],
+  "20": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 20
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 957
+    },
+    {
+      "formId": 2,
+      "formName": "_alola_totem",
+      "speciesId": 1476
+    }
+  ],
+  "25": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 25
+    },
+    {
+      "formId": 1,
+      "formName": "_cosplay",
+      "speciesId": 1009
+    },
+    {
+      "formId": 2,
+      "formName": "_rock_star",
+      "speciesId": 1010
+    },
+    {
+      "formId": 3,
+      "formName": "_belle",
+      "speciesId": 1011
+    },
+    {
+      "formId": 4,
+      "formName": "_pop_star",
+      "speciesId": 1012
+    },
+    {
+      "formId": 5,
+      "formName": "_phd",
+      "speciesId": 1013
+    },
+    {
+      "formId": 6,
+      "formName": "_libre",
+      "speciesId": 1014
+    },
+    {
+      "formId": 7,
+      "formName": "_original",
+      "speciesId": 1015
+    },
+    {
+      "formId": 8,
+      "formName": "_hoenn",
+      "speciesId": 1016
+    },
+    {
+      "formId": 9,
+      "formName": "_sinnoh",
+      "speciesId": 1017
+    },
+    {
+      "formId": 10,
+      "formName": "_unova",
+      "speciesId": 1018
+    },
+    {
+      "formId": 11,
+      "formName": "_kalos",
+      "speciesId": 1019
+    },
+    {
+      "formId": 12,
+      "formName": "_alola",
+      "speciesId": 1020
+    },
+    {
+      "formId": 13,
+      "formName": "_partner",
+      "speciesId": 1021
+    },
+    {
+      "formId": 14,
+      "formName": "_world",
+      "speciesId": 1022
+    },
+    {
+      "formId": 15,
+      "formName": "_gmax",
+      "speciesId": 1493
+    },
+    {
+      "formId": 16,
+      "formName": "_starter",
+      "speciesId": 1487
+    }
+  ],
+  "26": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 26
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 958
+    },
+    {
+      "formId": 2,
+      "formName": "_mega_x",
+      "speciesId": 1553
+    },
+    {
+      "formId": 3,
+      "formName": "_mega_y",
+      "speciesId": 1554
+    }
+  ],
+  "27": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 27
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 959
+    }
+  ],
+  "28": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 28
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 960
+    }
+  ],
+  "36": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 36
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1524
+    }
+  ],
+  "37": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 37
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 961
+    }
+  ],
+  "38": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 38
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 962
+    }
+  ],
+  "50": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 50
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 963
+    }
+  ],
+  "51": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 51
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 964
+    }
+  ],
+  "52": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 52
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 965
+    },
+    {
+      "formId": 2,
+      "formName": "_galar",
+      "speciesId": 974
+    },
+    {
+      "formId": 3,
+      "formName": "_gmax",
+      "speciesId": 1494
+    }
+  ],
+  "53": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 53
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 966
+    }
+  ],
+  "58": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 58
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 993
+    }
+  ],
+  "59": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 59
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 994
+    }
+  ],
+  "65": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 65
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 912
+    }
+  ],
+  "68": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 68
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1495
+    }
+  ],
+  "71": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 71
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1525
+    }
+  ],
+  "74": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 74
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 967
+    }
+  ],
+  "75": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 75
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 968
+    }
+  ],
+  "76": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 76
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 969
+    }
+  ],
+  "77": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 77
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 975
+    }
+  ],
+  "78": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 78
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 976
+    }
+  ],
+  "79": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 79
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 977
+    }
+  ],
+  "80": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 80
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 913
+    },
+    {
+      "formId": 2,
+      "formName": "_galar",
+      "speciesId": 978
+    }
+  ],
+  "83": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 83
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 979
+    }
+  ],
+  "88": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 88
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 970
+    }
+  ],
+  "89": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 89
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 971
+    }
+  ],
+  "94": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 94
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 914
+    },
+    {
+      "formId": 2,
+      "formName": "_gmax",
+      "speciesId": 1496
+    }
+  ],
+  "99": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 99
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1497
+    }
+  ],
+  "100": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 100
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 995
+    }
+  ],
+  "101": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 101
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 996
+    }
+  ],
+  "103": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 103
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 972
+    }
+  ],
+  "105": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 105
+    },
+    {
+      "formId": 1,
+      "formName": "_alola",
+      "speciesId": 973
+    },
+    {
+      "formId": 2,
+      "formName": "_alola_totem",
+      "speciesId": 1483
+    }
+  ],
+  "110": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 110
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 980
+    }
+  ],
+  "115": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 115
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 915
+    }
+  ],
+  "121": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 121
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1526
+    }
+  ],
+  "122": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 122
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 981
+    }
+  ],
+  "127": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 127
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 916
+    }
+  ],
+  "128": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 128
+    },
+    {
+      "formId": 1,
+      "formName": "_paldea_combat",
+      "speciesId": 1402
+    },
+    {
+      "formId": 2,
+      "formName": "_paldea_blaze",
+      "speciesId": 1403
+    },
+    {
+      "formId": 3,
+      "formName": "_paldea_aqua",
+      "speciesId": 1404
+    }
+  ],
+  "130": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 130
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 917
+    }
+  ],
+  "131": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 131
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1498
+    }
+  ],
+  "133": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 133
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1499
+    },
+    {
+      "formId": 2,
+      "formName": "_starter",
+      "speciesId": 1488
+    }
+  ],
+  "142": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 142
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 918
+    }
+  ],
+  "143": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 143
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1500
+    }
+  ],
+  "144": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 144
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 982
+    }
+  ],
+  "145": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 145
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 983
+    }
+  ],
+  "146": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 146
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 984
+    }
+  ],
+  "149": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 149
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1527
+    }
+  ],
+  "150": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 150
+    },
+    {
+      "formId": 1,
+      "formName": "_mega_x",
+      "speciesId": 919
+    },
+    {
+      "formId": 2,
+      "formName": "_mega_y",
+      "speciesId": 920
+    }
+  ],
+  "154": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 154
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1528
+    }
+  ],
+  "157": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 157
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 997
+    }
+  ],
+  "160": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 160
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1529
+    }
+  ],
+  "172": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 172
+    },
+    {
+      "formId": 1,
+      "formName": "_spiky_eared",
+      "speciesId": 1023
+    }
+  ],
+  "181": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 181
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 921
+    }
+  ],
+  "194": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 194
+    },
+    {
+      "formId": 1,
+      "formName": "_paldea",
+      "speciesId": 1405
+    }
+  ],
+  "199": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 199
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 985
+    }
+  ],
+  "201": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 201
+    },
+    {
+      "formId": 1,
+      "formName": "_b",
+      "speciesId": 1024
+    },
+    {
+      "formId": 2,
+      "formName": "_c",
+      "speciesId": 1025
+    },
+    {
+      "formId": 3,
+      "formName": "_d",
+      "speciesId": 1026
+    },
+    {
+      "formId": 4,
+      "formName": "_e",
+      "speciesId": 1027
+    },
+    {
+      "formId": 5,
+      "formName": "_f",
+      "speciesId": 1028
+    },
+    {
+      "formId": 6,
+      "formName": "_g",
+      "speciesId": 1029
+    },
+    {
+      "formId": 7,
+      "formName": "_h",
+      "speciesId": 1030
+    },
+    {
+      "formId": 8,
+      "formName": "_i",
+      "speciesId": 1031
+    },
+    {
+      "formId": 9,
+      "formName": "_j",
+      "speciesId": 1032
+    },
+    {
+      "formId": 10,
+      "formName": "_k",
+      "speciesId": 1033
+    },
+    {
+      "formId": 11,
+      "formName": "_l",
+      "speciesId": 1034
+    },
+    {
+      "formId": 12,
+      "formName": "_m",
+      "speciesId": 1035
+    },
+    {
+      "formId": 13,
+      "formName": "_n",
+      "speciesId": 1036
+    },
+    {
+      "formId": 14,
+      "formName": "_o",
+      "speciesId": 1037
+    },
+    {
+      "formId": 15,
+      "formName": "_p",
+      "speciesId": 1038
+    },
+    {
+      "formId": 16,
+      "formName": "_q",
+      "speciesId": 1039
+    },
+    {
+      "formId": 17,
+      "formName": "_r",
+      "speciesId": 1040
+    },
+    {
+      "formId": 18,
+      "formName": "_s",
+      "speciesId": 1041
+    },
+    {
+      "formId": 19,
+      "formName": "_t",
+      "speciesId": 1042
+    },
+    {
+      "formId": 20,
+      "formName": "_u",
+      "speciesId": 1043
+    },
+    {
+      "formId": 21,
+      "formName": "_v",
+      "speciesId": 1044
+    },
+    {
+      "formId": 22,
+      "formName": "_w",
+      "speciesId": 1045
+    },
+    {
+      "formId": 23,
+      "formName": "_x",
+      "speciesId": 1046
+    },
+    {
+      "formId": 24,
+      "formName": "_y",
+      "speciesId": 1047
+    },
+    {
+      "formId": 25,
+      "formName": "_z",
+      "speciesId": 1048
+    },
+    {
+      "formId": 26,
+      "formName": "_exclamation",
+      "speciesId": 1049
+    },
+    {
+      "formId": 27,
+      "formName": "_question",
+      "speciesId": 1050
+    }
+  ],
+  "208": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 208
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 922
+    }
+  ],
+  "211": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 211
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 998
+    }
+  ],
+  "212": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 212
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 923
+    }
+  ],
+  "214": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 214
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 924
+    }
+  ],
+  "215": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 215
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 999
+    }
+  ],
+  "222": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 222
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 986
+    }
+  ],
+  "227": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 227
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1530
+    }
+  ],
+  "229": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 229
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 925
+    }
+  ],
+  "248": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 248
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 926
+    }
+  ],
+  "254": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 254
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 927
+    }
+  ],
+  "257": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 257
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 928
+    }
+  ],
+  "260": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 260
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 929
+    }
+  ],
+  "263": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 263
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 987
+    }
+  ],
+  "264": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 264
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 988
+    }
+  ],
+  "282": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 282
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 930
+    }
+  ],
+  "302": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 302
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 931
+    }
+  ],
+  "303": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 303
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 932
+    }
+  ],
+  "306": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 306
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 933
+    }
+  ],
+  "308": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 308
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 934
+    }
+  ],
+  "310": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 310
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 935
+    }
+  ],
+  "319": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 319
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 936
+    }
+  ],
+  "323": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 323
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 937
+    }
+  ],
+  "334": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 334
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 938
+    }
+  ],
+  "351": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 351
+    },
+    {
+      "formId": 1,
+      "formName": "species_castform_sunny",
+      "speciesId": 1051
+    },
+    {
+      "formId": 2,
+      "formName": "species_castform_rainy",
+      "speciesId": 1052
+    },
+    {
+      "formId": 3,
+      "formName": "species_castform_snowy",
+      "speciesId": 1053
+    }
+  ],
+  "354": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 354
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 939
+    }
+  ],
+  "358": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 358
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1555
+    }
+  ],
+  "359": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 359
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 940
+    },
+    {
+      "formId": 2,
+      "formName": "_mega_z",
+      "speciesId": 1556
+    }
+  ],
+  "362": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 362
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 941
+    }
+  ],
+  "373": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 373
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 942
+    }
+  ],
+  "376": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 376
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 943
+    }
+  ],
+  "380": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 380
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 944
+    }
+  ],
+  "381": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 381
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 945
+    }
+  ],
+  "382": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 382
+    },
+    {
+      "formId": 1,
+      "formName": "_primal",
+      "speciesId": 954
+    }
+  ],
+  "383": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 383
+    },
+    {
+      "formId": 1,
+      "formName": "_primal",
+      "speciesId": 955
+    }
+  ],
+  "384": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 384
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 953
+    }
+  ],
+  "386": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 386
+    },
+    {
+      "formId": 1,
+      "formName": "species_deoxys_attack",
+      "speciesId": 1054
+    },
+    {
+      "formId": 2,
+      "formName": "species_deoxys_defense",
+      "speciesId": 1055
+    },
+    {
+      "formId": 3,
+      "formName": "species_deoxys_speed",
+      "speciesId": 1056
+    }
+  ],
+  "398": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 398
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1557
+    }
+  ],
+  "412": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 412
+    },
+    {
+      "formId": 1,
+      "formName": "species_burmy_sandy",
+      "speciesId": 1057
+    },
+    {
+      "formId": 2,
+      "formName": "species_burmy_trash",
+      "speciesId": 1058
+    }
+  ],
+  "413": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 413
+    },
+    {
+      "formId": 1,
+      "formName": "species_wormadam_sandy",
+      "speciesId": 1059
+    },
+    {
+      "formId": 2,
+      "formName": "species_wormadam_trash",
+      "speciesId": 1060
+    }
+  ],
+  "414": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 414
+    },
+    {
+      "formId": 1,
+      "formName": "species_mothim_sandy",
+      "speciesId": 1436
+    },
+    {
+      "formId": 2,
+      "formName": "species_mothim_trash",
+      "speciesId": 1437
+    }
+  ],
+  "421": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 421
+    },
+    {
+      "formId": 1,
+      "formName": "species_cherrim_sunshine",
+      "speciesId": 1061
+    }
+  ],
+  "422": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 422
+    },
+    {
+      "formId": 1,
+      "formName": "species_shellos_east",
+      "speciesId": 1062
+    }
+  ],
+  "423": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 423
+    },
+    {
+      "formId": 1,
+      "formName": "species_gastrodon_east",
+      "speciesId": 1063
+    }
+  ],
+  "428": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 428
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 946
+    }
+  ],
+  "445": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 445
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 947
+    },
+    {
+      "formId": 2,
+      "formName": "_mega_z",
+      "speciesId": 1558
+    }
+  ],
+  "448": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 448
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 948
+    },
+    {
+      "formId": 2,
+      "formName": "_mega_z",
+      "speciesId": 1559
+    }
+  ],
+  "460": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 460
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 949
+    }
+  ],
+  "475": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 475
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 950
+    }
+  ],
+  "478": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 478
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1531
+    }
+  ],
+  "479": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 479
+    },
+    {
+      "formId": 1,
+      "formName": "_heat",
+      "speciesId": 1064
+    },
+    {
+      "formId": 2,
+      "formName": "_wash",
+      "speciesId": 1065
+    },
+    {
+      "formId": 3,
+      "formName": "_frost",
+      "speciesId": 1066
+    },
+    {
+      "formId": 4,
+      "formName": "_fan",
+      "speciesId": 1067
+    },
+    {
+      "formId": 5,
+      "formName": "_mow",
+      "speciesId": 1068
+    }
+  ],
+  "483": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 483
+    },
+    {
+      "formId": 1,
+      "formName": "_origin",
+      "speciesId": 1069
+    }
+  ],
+  "484": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 484
+    },
+    {
+      "formId": 1,
+      "formName": "_origin",
+      "speciesId": 1070
+    }
+  ],
+  "485": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 485
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1550
+    }
+  ],
+  "487": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 487
+    },
+    {
+      "formId": 1,
+      "formName": "species_giratina_origin",
+      "speciesId": 1071
+    }
+  ],
+  "491": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 491
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1551
+    }
+  ],
+  "492": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 492
+    },
+    {
+      "formId": 1,
+      "formName": "species_shaymin_sky",
+      "speciesId": 1072
+    }
+  ],
+  "493": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 493
+    },
+    {
+      "formId": 1,
+      "formName": "species_arceus_fighting",
+      "speciesId": 1073
+    },
+    {
+      "formId": 2,
+      "formName": "species_arceus_flying",
+      "speciesId": 1074
+    },
+    {
+      "formId": 3,
+      "formName": "species_arceus_poison",
+      "speciesId": 1075
+    },
+    {
+      "formId": 4,
+      "formName": "species_arceus_ground",
+      "speciesId": 1076
+    },
+    {
+      "formId": 5,
+      "formName": "species_arceus_rock",
+      "speciesId": 1077
+    },
+    {
+      "formId": 6,
+      "formName": "species_arceus_bug",
+      "speciesId": 1078
+    },
+    {
+      "formId": 7,
+      "formName": "species_arceus_ghost",
+      "speciesId": 1079
+    },
+    {
+      "formId": 8,
+      "formName": "species_arceus_steel",
+      "speciesId": 1080
+    },
+    {
+      "formId": 9,
+      "formName": "species_arceus_fire",
+      "speciesId": 1081
+    },
+    {
+      "formId": 10,
+      "formName": "species_arceus_water",
+      "speciesId": 1082
+    },
+    {
+      "formId": 11,
+      "formName": "species_arceus_grass",
+      "speciesId": 1083
+    },
+    {
+      "formId": 12,
+      "formName": "species_arceus_electric",
+      "speciesId": 1084
+    },
+    {
+      "formId": 13,
+      "formName": "species_arceus_psychic",
+      "speciesId": 1085
+    },
+    {
+      "formId": 14,
+      "formName": "species_arceus_ice",
+      "speciesId": 1086
+    },
+    {
+      "formId": 15,
+      "formName": "species_arceus_dragon",
+      "speciesId": 1087
+    },
+    {
+      "formId": 16,
+      "formName": "species_arceus_dark",
+      "speciesId": 1088
+    },
+    {
+      "formId": 17,
+      "formName": "species_arceus_fairy",
+      "speciesId": 1089
+    }
+  ],
+  "500": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 500
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1532
+    }
+  ],
+  "503": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 503
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1000
+    }
+  ],
+  "530": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 530
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1533
+    }
+  ],
+  "531": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 531
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 951
+    }
+  ],
+  "545": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 545
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1534
+    }
+  ],
+  "549": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 549
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1001
+    }
+  ],
+  "550": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 550
+    },
+    {
+      "formId": 1,
+      "formName": "species_basculin_blue_striped",
+      "speciesId": 1090
+    },
+    {
+      "formId": 2,
+      "formName": "species_basculin_white_striped",
+      "speciesId": 1091
+    }
+  ],
+  "554": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 554
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 989
+    }
+  ],
+  "555": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 555
+    },
+    {
+      "formId": 1,
+      "formName": "species_darmanitan_zen",
+      "speciesId": 1092
+    },
+    {
+      "formId": 2,
+      "formName": "species_darmanitan_galar_standard",
+      "speciesId": 990
+    },
+    {
+      "formId": 3,
+      "formName": "species_darmanitan_galar_zen",
+      "speciesId": 1093
+    }
+  ],
+  "560": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 560
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1535
+    }
+  ],
+  "562": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 562
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 991
+    }
+  ],
+  "569": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 569
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1501
+    }
+  ],
+  "570": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 570
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1002
+    }
+  ],
+  "571": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 571
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1003
+    }
+  ],
+  "585": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 585
+    },
+    {
+      "formId": 1,
+      "formName": "species_deerling_summer",
+      "speciesId": 1094
+    },
+    {
+      "formId": 2,
+      "formName": "species_deerling_autumn",
+      "speciesId": 1095
+    },
+    {
+      "formId": 3,
+      "formName": "species_deerling_winter",
+      "speciesId": 1096
+    }
+  ],
+  "586": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 586
+    },
+    {
+      "formId": 1,
+      "formName": "species_sawsbuck_summer",
+      "speciesId": 1097
+    },
+    {
+      "formId": 2,
+      "formName": "species_sawsbuck_autumn",
+      "speciesId": 1098
+    },
+    {
+      "formId": 3,
+      "formName": "species_sawsbuck_winter",
+      "speciesId": 1099
+    }
+  ],
+  "604": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 604
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1536
+    }
+  ],
+  "609": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 609
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1537
+    }
+  ],
+  "618": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 618
+    },
+    {
+      "formId": 1,
+      "formName": "_galar",
+      "speciesId": 992
+    }
+  ],
+  "623": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 623
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1560
+    }
+  ],
+  "628": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 628
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1004
+    }
+  ],
+  "641": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 641
+    },
+    {
+      "formId": 1,
+      "formName": "species_tornadus_therian",
+      "speciesId": 1100
+    }
+  ],
+  "642": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 642
+    },
+    {
+      "formId": 1,
+      "formName": "species_thundurus_therian",
+      "speciesId": 1101
+    }
+  ],
+  "645": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 645
+    },
+    {
+      "formId": 1,
+      "formName": "species_landorus_therian",
+      "speciesId": 1102
+    }
+  ],
+  "646": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 646
+    },
+    {
+      "formId": 1,
+      "formName": "_white",
+      "speciesId": 1104
+    },
+    {
+      "formId": 2,
+      "formName": "_black",
+      "speciesId": 1105
+    }
+  ],
+  "647": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 647
+    },
+    {
+      "formId": 1,
+      "formName": "species_keldeo_resolute",
+      "speciesId": 1106
+    }
+  ],
+  "648": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 648
+    },
+    {
+      "formId": 1,
+      "formName": "species_meloetta_pirouette",
+      "speciesId": 1107
+    }
+  ],
+  "649": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 649
+    },
+    {
+      "formId": 1,
+      "formName": "_douse",
+      "speciesId": 1108
+    },
+    {
+      "formId": 2,
+      "formName": "_shock",
+      "speciesId": 1109
+    },
+    {
+      "formId": 3,
+      "formName": "_burn",
+      "speciesId": 1110
+    },
+    {
+      "formId": 4,
+      "formName": "_chill",
+      "speciesId": 1111
+    }
+  ],
+  "652": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 652
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1538
+    }
+  ],
+  "655": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 655
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1539
+    }
+  ],
+  "658": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 658
+    },
+    {
+      "formId": 1,
+      "formName": "_battle_bond",
+      "speciesId": 1112
+    },
+    {
+      "formId": 2,
+      "formName": "_ash",
+      "speciesId": 1113
+    },
+    {
+      "formId": 3,
+      "formName": "_mega",
+      "speciesId": 1540
+    }
+  ],
+  "664": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 664
+    },
+    {
+      "formId": 1,
+      "formName": "species_scatterbug_polar",
+      "speciesId": 1438
+    },
+    {
+      "formId": 2,
+      "formName": "species_scatterbug_tundra",
+      "speciesId": 1439
+    },
+    {
+      "formId": 3,
+      "formName": "species_scatterbug_continental",
+      "speciesId": 1440
+    },
+    {
+      "formId": 4,
+      "formName": "species_scatterbug_garden",
+      "speciesId": 1441
+    },
+    {
+      "formId": 5,
+      "formName": "species_scatterbug_elegant",
+      "speciesId": 1442
+    },
+    {
+      "formId": 6,
+      "formName": "species_scatterbug_meadow",
+      "speciesId": 1443
+    },
+    {
+      "formId": 7,
+      "formName": "species_scatterbug_modern",
+      "speciesId": 1444
+    },
+    {
+      "formId": 8,
+      "formName": "species_scatterbug_marine",
+      "speciesId": 1445
+    },
+    {
+      "formId": 9,
+      "formName": "species_scatterbug_archipelago",
+      "speciesId": 1446
+    },
+    {
+      "formId": 10,
+      "formName": "species_scatterbug_high_plains",
+      "speciesId": 1447
+    },
+    {
+      "formId": 11,
+      "formName": "species_scatterbug_sandstorm",
+      "speciesId": 1448
+    },
+    {
+      "formId": 12,
+      "formName": "species_scatterbug_river",
+      "speciesId": 1449
+    },
+    {
+      "formId": 13,
+      "formName": "species_scatterbug_monsoon",
+      "speciesId": 1450
+    },
+    {
+      "formId": 14,
+      "formName": "species_scatterbug_savanna",
+      "speciesId": 1451
+    },
+    {
+      "formId": 15,
+      "formName": "species_scatterbug_sun",
+      "speciesId": 1452
+    },
+    {
+      "formId": 16,
+      "formName": "species_scatterbug_ocean",
+      "speciesId": 1453
+    },
+    {
+      "formId": 17,
+      "formName": "species_scatterbug_jungle",
+      "speciesId": 1454
+    },
+    {
+      "formId": 18,
+      "formName": "species_scatterbug_fancy",
+      "speciesId": 1455
+    },
+    {
+      "formId": 19,
+      "formName": "species_scatterbug_pokeball",
+      "speciesId": 1456
+    }
+  ],
+  "665": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 665
+    },
+    {
+      "formId": 1,
+      "formName": "species_spewpa_polar",
+      "speciesId": 1457
+    },
+    {
+      "formId": 2,
+      "formName": "species_spewpa_tundra",
+      "speciesId": 1458
+    },
+    {
+      "formId": 3,
+      "formName": "species_spewpa_continental",
+      "speciesId": 1459
+    },
+    {
+      "formId": 4,
+      "formName": "species_spewpa_garden",
+      "speciesId": 1460
+    },
+    {
+      "formId": 5,
+      "formName": "species_spewpa_elegant",
+      "speciesId": 1461
+    },
+    {
+      "formId": 6,
+      "formName": "species_spewpa_meadow",
+      "speciesId": 1462
+    },
+    {
+      "formId": 7,
+      "formName": "species_spewpa_modern",
+      "speciesId": 1463
+    },
+    {
+      "formId": 8,
+      "formName": "species_spewpa_marine",
+      "speciesId": 1464
+    },
+    {
+      "formId": 9,
+      "formName": "species_spewpa_archipelago",
+      "speciesId": 1465
+    },
+    {
+      "formId": 10,
+      "formName": "species_spewpa_high_plains",
+      "speciesId": 1466
+    },
+    {
+      "formId": 11,
+      "formName": "species_spewpa_sandstorm",
+      "speciesId": 1467
+    },
+    {
+      "formId": 12,
+      "formName": "species_spewpa_river",
+      "speciesId": 1468
+    },
+    {
+      "formId": 13,
+      "formName": "species_spewpa_monsoon",
+      "speciesId": 1469
+    },
+    {
+      "formId": 14,
+      "formName": "species_spewpa_savanna",
+      "speciesId": 1470
+    },
+    {
+      "formId": 15,
+      "formName": "species_spewpa_sun",
+      "speciesId": 1471
+    },
+    {
+      "formId": 16,
+      "formName": "species_spewpa_ocean",
+      "speciesId": 1472
+    },
+    {
+      "formId": 17,
+      "formName": "species_spewpa_jungle",
+      "speciesId": 1473
+    },
+    {
+      "formId": 18,
+      "formName": "species_spewpa_fancy",
+      "speciesId": 1474
+    },
+    {
+      "formId": 19,
+      "formName": "species_spewpa_pokeball",
+      "speciesId": 1475
+    }
+  ],
+  "666": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 666
+    },
+    {
+      "formId": 1,
+      "formName": "species_vivillon_polar",
+      "speciesId": 1114
+    },
+    {
+      "formId": 2,
+      "formName": "species_vivillon_tundra",
+      "speciesId": 1115
+    },
+    {
+      "formId": 3,
+      "formName": "species_vivillon_continental",
+      "speciesId": 1116
+    },
+    {
+      "formId": 4,
+      "formName": "species_vivillon_garden",
+      "speciesId": 1117
+    },
+    {
+      "formId": 5,
+      "formName": "species_vivillon_elegant",
+      "speciesId": 1118
+    },
+    {
+      "formId": 6,
+      "formName": "species_vivillon_meadow",
+      "speciesId": 1119
+    },
+    {
+      "formId": 7,
+      "formName": "species_vivillon_modern",
+      "speciesId": 1120
+    },
+    {
+      "formId": 8,
+      "formName": "species_vivillon_marine",
+      "speciesId": 1121
+    },
+    {
+      "formId": 9,
+      "formName": "species_vivillon_archipelago",
+      "speciesId": 1122
+    },
+    {
+      "formId": 10,
+      "formName": "species_vivillon_high_plains",
+      "speciesId": 1123
+    },
+    {
+      "formId": 11,
+      "formName": "species_vivillon_sandstorm",
+      "speciesId": 1124
+    },
+    {
+      "formId": 12,
+      "formName": "species_vivillon_river",
+      "speciesId": 1125
+    },
+    {
+      "formId": 13,
+      "formName": "species_vivillon_monsoon",
+      "speciesId": 1126
+    },
+    {
+      "formId": 14,
+      "formName": "species_vivillon_savanna",
+      "speciesId": 1127
+    },
+    {
+      "formId": 15,
+      "formName": "species_vivillon_sun",
+      "speciesId": 1128
+    },
+    {
+      "formId": 16,
+      "formName": "species_vivillon_ocean",
+      "speciesId": 1129
+    },
+    {
+      "formId": 17,
+      "formName": "species_vivillon_jungle",
+      "speciesId": 1130
+    },
+    {
+      "formId": 18,
+      "formName": "species_vivillon_fancy",
+      "speciesId": 1131
+    },
+    {
+      "formId": 19,
+      "formName": "species_vivillon_pokeball",
+      "speciesId": 1132
+    }
+  ],
+  "668": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 668
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1541
+    }
+  ],
+  "669": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 669
+    },
+    {
+      "formId": 1,
+      "formName": "species_flabebe_yellow",
+      "speciesId": 1133
+    },
+    {
+      "formId": 2,
+      "formName": "species_flabebe_orange",
+      "speciesId": 1134
+    },
+    {
+      "formId": 3,
+      "formName": "species_flabebe_blue",
+      "speciesId": 1135
+    },
+    {
+      "formId": 4,
+      "formName": "species_flabebe_white",
+      "speciesId": 1136
+    }
+  ],
+  "670": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 670
+    },
+    {
+      "formId": 1,
+      "formName": "species_floette_yellow",
+      "speciesId": 1137
+    },
+    {
+      "formId": 2,
+      "formName": "species_floette_orange",
+      "speciesId": 1138
+    },
+    {
+      "formId": 3,
+      "formName": "species_floette_blue",
+      "speciesId": 1139
+    },
+    {
+      "formId": 4,
+      "formName": "species_floette_white",
+      "speciesId": 1140
+    },
+    {
+      "formId": 5,
+      "formName": "species_floette_eternal",
+      "speciesId": 1141
+    },
+    {
+      "formId": 6,
+      "formName": "species_floette_mega",
+      "speciesId": 1545
+    }
+  ],
+  "671": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 671
+    },
+    {
+      "formId": 1,
+      "formName": "species_florges_yellow",
+      "speciesId": 1142
+    },
+    {
+      "formId": 2,
+      "formName": "species_florges_orange",
+      "speciesId": 1143
+    },
+    {
+      "formId": 3,
+      "formName": "species_florges_blue",
+      "speciesId": 1144
+    },
+    {
+      "formId": 4,
+      "formName": "species_florges_white",
+      "speciesId": 1145
+    }
+  ],
+  "676": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 676
+    },
+    {
+      "formId": 1,
+      "formName": "species_furfrou_heart",
+      "speciesId": 1146
+    },
+    {
+      "formId": 2,
+      "formName": "species_furfrou_star",
+      "speciesId": 1147
+    },
+    {
+      "formId": 3,
+      "formName": "species_furfrou_diamond",
+      "speciesId": 1148
+    },
+    {
+      "formId": 4,
+      "formName": "species_furfrou_debutante",
+      "speciesId": 1149
+    },
+    {
+      "formId": 5,
+      "formName": "species_furfrou_matron",
+      "speciesId": 1150
+    },
+    {
+      "formId": 6,
+      "formName": "species_furfrou_dandy",
+      "speciesId": 1151
+    },
+    {
+      "formId": 7,
+      "formName": "species_furfrou_la_reine",
+      "speciesId": 1152
+    },
+    {
+      "formId": 8,
+      "formName": "species_furfrou_kabuki",
+      "speciesId": 1153
+    },
+    {
+      "formId": 9,
+      "formName": "species_furfrou_pharaoh",
+      "speciesId": 1154
+    }
+  ],
+  "678": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 678
+    },
+    {
+      "formId": 1,
+      "formName": "species_meowstic_f",
+      "speciesId": 1155
+    },
+    {
+      "formId": 2,
+      "formName": "_mega",
+      "speciesId": 1561
+    },
+    {
+      "formId": 3,
+      "formName": "species_meowstic_f_mega",
+      "speciesId": 1562
+    }
+  ],
+  "681": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 681
+    },
+    {
+      "formId": 1,
+      "formName": "species_aegislash_blade",
+      "speciesId": 1156
+    }
+  ],
+  "687": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 687
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1542
+    }
+  ],
+  "689": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 689
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1546
+    }
+  ],
+  "691": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 691
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1543
+    }
+  ],
+  "701": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 701
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1544
+    }
+  ],
+  "705": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 705
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1005
+    }
+  ],
+  "706": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 706
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1006
+    }
+  ],
+  "710": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 710
+    },
+    {
+      "formId": 1,
+      "formName": "species_pumpkaboo_small",
+      "speciesId": 1157
+    },
+    {
+      "formId": 2,
+      "formName": "species_pumpkaboo_large",
+      "speciesId": 1158
+    },
+    {
+      "formId": 3,
+      "formName": "species_pumpkaboo_super",
+      "speciesId": 1159
+    }
+  ],
+  "711": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 711
+    },
+    {
+      "formId": 1,
+      "formName": "species_gourgeist_small",
+      "speciesId": 1160
+    },
+    {
+      "formId": 2,
+      "formName": "species_gourgeist_large",
+      "speciesId": 1161
+    },
+    {
+      "formId": 3,
+      "formName": "species_gourgeist_super",
+      "speciesId": 1162
+    }
+  ],
+  "713": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 713
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1007
+    }
+  ],
+  "716": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 716
+    },
+    {
+      "formId": 1,
+      "formName": "species_xerneas_active",
+      "speciesId": 1163
+    }
+  ],
+  "718": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 718
+    },
+    {
+      "formId": 1,
+      "formName": "species_zygarde_10_aura_break",
+      "speciesId": 1164
+    },
+    {
+      "formId": 2,
+      "formName": "species_zygarde_10_power_construct",
+      "speciesId": 1165
+    },
+    {
+      "formId": 3,
+      "formName": "_power_construct",
+      "speciesId": 1166
+    },
+    {
+      "formId": 4,
+      "formName": "species_zygarde_complete",
+      "speciesId": 1167
+    },
+    {
+      "formId": 5,
+      "formName": "species_zygarde_mega",
+      "speciesId": 1547
+    }
+  ],
+  "719": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 719
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 952
+    }
+  ],
+  "720": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 720
+    },
+    {
+      "formId": 1,
+      "formName": "species_hoopa_unbound",
+      "speciesId": 1168
+    }
+  ],
+  "724": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 724
+    },
+    {
+      "formId": 1,
+      "formName": "_hisui",
+      "speciesId": 1008
+    }
+  ],
+  "735": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 735
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1477
+    }
+  ],
+  "738": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 738
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1478
+    }
+  ],
+  "740": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 740
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1563
+    }
+  ],
+  "741": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 741
+    },
+    {
+      "formId": 1,
+      "formName": "species_oricorio_pom_pom",
+      "speciesId": 1169
+    },
+    {
+      "formId": 2,
+      "formName": "species_oricorio_pau",
+      "speciesId": 1170
+    },
+    {
+      "formId": 3,
+      "formName": "species_oricorio_sensu",
+      "speciesId": 1171
+    }
+  ],
+  "743": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 743
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1484
+    }
+  ],
+  "744": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 744
+    },
+    {
+      "formId": 1,
+      "formName": "_own_tempo",
+      "speciesId": 1172
+    }
+  ],
+  "745": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 745
+    },
+    {
+      "formId": 1,
+      "formName": "species_lycanroc_midnight",
+      "speciesId": 1173
+    },
+    {
+      "formId": 2,
+      "formName": "species_lycanroc_dusk",
+      "speciesId": 1174
+    }
+  ],
+  "746": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 746
+    },
+    {
+      "formId": 1,
+      "formName": "species_wishiwashi_school",
+      "speciesId": 1175
+    }
+  ],
+  "752": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 752
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1485
+    }
+  ],
+  "754": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 754
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1479
+    }
+  ],
+  "758": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 758
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1480
+    }
+  ],
+  "768": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 768
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1564
+    }
+  ],
+  "773": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 773
+    },
+    {
+      "formId": 1,
+      "formName": "species_silvally_fighting",
+      "speciesId": 1176
+    },
+    {
+      "formId": 2,
+      "formName": "species_silvally_flying",
+      "speciesId": 1177
+    },
+    {
+      "formId": 3,
+      "formName": "species_silvally_poison",
+      "speciesId": 1178
+    },
+    {
+      "formId": 4,
+      "formName": "species_silvally_ground",
+      "speciesId": 1179
+    },
+    {
+      "formId": 5,
+      "formName": "species_silvally_rock",
+      "speciesId": 1180
+    },
+    {
+      "formId": 6,
+      "formName": "species_silvally_bug",
+      "speciesId": 1181
+    },
+    {
+      "formId": 7,
+      "formName": "species_silvally_ghost",
+      "speciesId": 1182
+    },
+    {
+      "formId": 8,
+      "formName": "species_silvally_steel",
+      "speciesId": 1183
+    },
+    {
+      "formId": 9,
+      "formName": "species_silvally_fire",
+      "speciesId": 1184
+    },
+    {
+      "formId": 10,
+      "formName": "species_silvally_water",
+      "speciesId": 1185
+    },
+    {
+      "formId": 11,
+      "formName": "species_silvally_grass",
+      "speciesId": 1186
+    },
+    {
+      "formId": 12,
+      "formName": "species_silvally_electric",
+      "speciesId": 1187
+    },
+    {
+      "formId": 13,
+      "formName": "species_silvally_psychic",
+      "speciesId": 1188
+    },
+    {
+      "formId": 14,
+      "formName": "species_silvally_ice",
+      "speciesId": 1189
+    },
+    {
+      "formId": 15,
+      "formName": "species_silvally_dragon",
+      "speciesId": 1190
+    },
+    {
+      "formId": 16,
+      "formName": "species_silvally_dark",
+      "speciesId": 1191
+    },
+    {
+      "formId": 17,
+      "formName": "species_silvally_fairy",
+      "speciesId": 1192
+    }
+  ],
+  "774": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 774
+    },
+    {
+      "formId": 1,
+      "formName": "species_minior_meteor_orange",
+      "speciesId": 1193
+    },
+    {
+      "formId": 2,
+      "formName": "species_minior_meteor_yellow",
+      "speciesId": 1194
+    },
+    {
+      "formId": 3,
+      "formName": "species_minior_meteor_green",
+      "speciesId": 1195
+    },
+    {
+      "formId": 4,
+      "formName": "species_minior_meteor_blue",
+      "speciesId": 1196
+    },
+    {
+      "formId": 5,
+      "formName": "species_minior_meteor_indigo",
+      "speciesId": 1197
+    },
+    {
+      "formId": 6,
+      "formName": "species_minior_meteor_violet",
+      "speciesId": 1198
+    },
+    {
+      "formId": 7,
+      "formName": "species_minior_core_red",
+      "speciesId": 1199
+    },
+    {
+      "formId": 8,
+      "formName": "species_minior_core_orange",
+      "speciesId": 1200
+    },
+    {
+      "formId": 9,
+      "formName": "species_minior_core_yellow",
+      "speciesId": 1201
+    },
+    {
+      "formId": 10,
+      "formName": "species_minior_core_green",
+      "speciesId": 1202
+    },
+    {
+      "formId": 11,
+      "formName": "species_minior_core_blue",
+      "speciesId": 1203
+    },
+    {
+      "formId": 12,
+      "formName": "species_minior_core_indigo",
+      "speciesId": 1204
+    },
+    {
+      "formId": 13,
+      "formName": "species_minior_core_violet",
+      "speciesId": 1205
+    }
+  ],
+  "777": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 777
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1486
+    }
+  ],
+  "778": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 778
+    },
+    {
+      "formId": 1,
+      "formName": "species_mimikyu_busted",
+      "speciesId": 1206
+    },
+    {
+      "formId": 2,
+      "formName": "species_mimikyu_totem_disguised",
+      "speciesId": 1481
+    },
+    {
+      "formId": 3,
+      "formName": "species_mimikyu_busted_totem",
+      "speciesId": 1523
+    }
+  ],
+  "780": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 780
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1548
+    }
+  ],
+  "784": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 784
+    },
+    {
+      "formId": 1,
+      "formName": "_totem",
+      "speciesId": 1482
+    }
+  ],
+  "800": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 800
+    },
+    {
+      "formId": 1,
+      "formName": "_dusk_mane",
+      "speciesId": 1207
+    },
+    {
+      "formId": 2,
+      "formName": "_dawn_wings",
+      "speciesId": 1208
+    },
+    {
+      "formId": 3,
+      "formName": "_ultra",
+      "speciesId": 1209
+    }
+  ],
+  "801": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 801
+    },
+    {
+      "formId": 1,
+      "formName": "_original",
+      "speciesId": 1210
+    },
+    {
+      "formId": 2,
+      "formName": "_mega",
+      "speciesId": 1565
+    },
+    {
+      "formId": 3,
+      "formName": "_original_mega",
+      "speciesId": 1566
+    }
+  ],
+  "807": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 807
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1552
+    }
+  ],
+  "809": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 809
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1502
+    }
+  ],
+  "812": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 812
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1503
+    }
+  ],
+  "815": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 815
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1504
+    }
+  ],
+  "818": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 818
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1505
+    }
+  ],
+  "823": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 823
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1506
+    }
+  ],
+  "826": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 826
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1507
+    }
+  ],
+  "834": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 834
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1508
+    }
+  ],
+  "839": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 839
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1509
+    }
+  ],
+  "841": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 841
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1510
+    }
+  ],
+  "842": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 842
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1511
+    }
+  ],
+  "844": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 844
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1512
+    }
+  ],
+  "845": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 845
+    },
+    {
+      "formId": 1,
+      "formName": "_gulping",
+      "speciesId": 1211
+    },
+    {
+      "formId": 2,
+      "formName": "_gorging",
+      "speciesId": 1212
+    }
+  ],
+  "849": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 849
+    },
+    {
+      "formId": 1,
+      "formName": "species_toxtricity_low_key",
+      "speciesId": 1213
+    },
+    {
+      "formId": 2,
+      "formName": "_gmax",
+      "speciesId": 1513
+    },
+    {
+      "formId": 3,
+      "formName": "species_toxtricity_low_key_gmax",
+      "speciesId": 1514
+    }
+  ],
+  "851": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 851
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1515
+    }
+  ],
+  "854": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 854
+    },
+    {
+      "formId": 1,
+      "formName": "species_sinistea_antique",
+      "speciesId": 1214
+    }
+  ],
+  "855": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 855
+    },
+    {
+      "formId": 1,
+      "formName": "species_polteageist_antique",
+      "speciesId": 1215
+    }
+  ],
+  "858": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 858
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1516
+    }
+  ],
+  "861": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 861
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1517
+    }
+  ],
+  "869": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 869
+    },
+    {
+      "formId": 1,
+      "formName": "species_alcremie_strawberry_ruby_cream",
+      "speciesId": 1216
+    },
+    {
+      "formId": 2,
+      "formName": "species_alcremie_strawberry_matcha_cream",
+      "speciesId": 1217
+    },
+    {
+      "formId": 3,
+      "formName": "species_alcremie_strawberry_mint_cream",
+      "speciesId": 1218
+    },
+    {
+      "formId": 4,
+      "formName": "species_alcremie_strawberry_lemon_cream",
+      "speciesId": 1219
+    },
+    {
+      "formId": 5,
+      "formName": "species_alcremie_strawberry_salted_cream",
+      "speciesId": 1220
+    },
+    {
+      "formId": 6,
+      "formName": "species_alcremie_strawberry_ruby_swirl",
+      "speciesId": 1221
+    },
+    {
+      "formId": 7,
+      "formName": "species_alcremie_strawberry_caramel_swirl",
+      "speciesId": 1222
+    },
+    {
+      "formId": 8,
+      "formName": "species_alcremie_strawberry_rainbow_swirl",
+      "speciesId": 1223
+    },
+    {
+      "formId": 9,
+      "formName": "species_alcremie_berry_vanilla_cream",
+      "speciesId": 1235
+    },
+    {
+      "formId": 10,
+      "formName": "species_alcremie_berry_ruby_cream",
+      "speciesId": 1236
+    },
+    {
+      "formId": 11,
+      "formName": "species_alcremie_berry_matcha_cream",
+      "speciesId": 1237
+    },
+    {
+      "formId": 12,
+      "formName": "species_alcremie_berry_mint_cream",
+      "speciesId": 1238
+    },
+    {
+      "formId": 13,
+      "formName": "species_alcremie_berry_lemon_cream",
+      "speciesId": 1239
+    },
+    {
+      "formId": 14,
+      "formName": "species_alcremie_berry_salted_cream",
+      "speciesId": 1240
+    },
+    {
+      "formId": 15,
+      "formName": "species_alcremie_berry_ruby_swirl",
+      "speciesId": 1241
+    },
+    {
+      "formId": 16,
+      "formName": "species_alcremie_berry_caramel_swirl",
+      "speciesId": 1242
+    },
+    {
+      "formId": 17,
+      "formName": "species_alcremie_berry_rainbow_swirl",
+      "speciesId": 1243
+    },
+    {
+      "formId": 18,
+      "formName": "species_alcremie_love_vanilla_cream",
+      "speciesId": 1244
+    },
+    {
+      "formId": 19,
+      "formName": "species_alcremie_love_ruby_cream",
+      "speciesId": 1245
+    },
+    {
+      "formId": 20,
+      "formName": "species_alcremie_love_matcha_cream",
+      "speciesId": 1246
+    },
+    {
+      "formId": 21,
+      "formName": "species_alcremie_love_mint_cream",
+      "speciesId": 1247
+    },
+    {
+      "formId": 22,
+      "formName": "species_alcremie_love_lemon_cream",
+      "speciesId": 1248
+    },
+    {
+      "formId": 23,
+      "formName": "species_alcremie_love_salted_cream",
+      "speciesId": 1249
+    },
+    {
+      "formId": 24,
+      "formName": "species_alcremie_love_ruby_swirl",
+      "speciesId": 1250
+    },
+    {
+      "formId": 25,
+      "formName": "species_alcremie_love_caramel_swirl",
+      "speciesId": 1251
+    },
+    {
+      "formId": 26,
+      "formName": "species_alcremie_love_rainbow_swirl",
+      "speciesId": 1252
+    },
+    {
+      "formId": 27,
+      "formName": "species_alcremie_star_vanilla_cream",
+      "speciesId": 1253
+    },
+    {
+      "formId": 28,
+      "formName": "species_alcremie_star_ruby_cream",
+      "speciesId": 1254
+    },
+    {
+      "formId": 29,
+      "formName": "species_alcremie_star_matcha_cream",
+      "speciesId": 1255
+    },
+    {
+      "formId": 30,
+      "formName": "species_alcremie_star_mint_cream",
+      "speciesId": 1256
+    },
+    {
+      "formId": 31,
+      "formName": "species_alcremie_star_lemon_cream",
+      "speciesId": 1257
+    },
+    {
+      "formId": 32,
+      "formName": "species_alcremie_star_salted_cream",
+      "speciesId": 1258
+    },
+    {
+      "formId": 33,
+      "formName": "species_alcremie_star_ruby_swirl",
+      "speciesId": 1259
+    },
+    {
+      "formId": 34,
+      "formName": "species_alcremie_star_caramel_swirl",
+      "speciesId": 1260
+    },
+    {
+      "formId": 35,
+      "formName": "species_alcremie_star_rainbow_swirl",
+      "speciesId": 1261
+    },
+    {
+      "formId": 36,
+      "formName": "species_alcremie_clover_vanilla_cream",
+      "speciesId": 1262
+    },
+    {
+      "formId": 37,
+      "formName": "species_alcremie_clover_ruby_cream",
+      "speciesId": 1263
+    },
+    {
+      "formId": 38,
+      "formName": "species_alcremie_clover_matcha_cream",
+      "speciesId": 1264
+    },
+    {
+      "formId": 39,
+      "formName": "species_alcremie_clover_mint_cream",
+      "speciesId": 1265
+    },
+    {
+      "formId": 40,
+      "formName": "species_alcremie_clover_lemon_cream",
+      "speciesId": 1266
+    },
+    {
+      "formId": 41,
+      "formName": "species_alcremie_clover_salted_cream",
+      "speciesId": 1267
+    },
+    {
+      "formId": 42,
+      "formName": "species_alcremie_clover_ruby_swirl",
+      "speciesId": 1268
+    },
+    {
+      "formId": 43,
+      "formName": "species_alcremie_clover_caramel_swirl",
+      "speciesId": 1269
+    },
+    {
+      "formId": 44,
+      "formName": "species_alcremie_clover_rainbow_swirl",
+      "speciesId": 1270
+    },
+    {
+      "formId": 45,
+      "formName": "species_alcremie_flower_vanilla_cream",
+      "speciesId": 1271
+    },
+    {
+      "formId": 46,
+      "formName": "species_alcremie_flower_ruby_cream",
+      "speciesId": 1272
+    },
+    {
+      "formId": 47,
+      "formName": "species_alcremie_flower_matcha_cream",
+      "speciesId": 1273
+    },
+    {
+      "formId": 48,
+      "formName": "species_alcremie_flower_mint_cream",
+      "speciesId": 1274
+    },
+    {
+      "formId": 49,
+      "formName": "species_alcremie_flower_lemon_cream",
+      "speciesId": 1275
+    },
+    {
+      "formId": 50,
+      "formName": "species_alcremie_flower_salted_cream",
+      "speciesId": 1276
+    },
+    {
+      "formId": 51,
+      "formName": "species_alcremie_flower_ruby_swirl",
+      "speciesId": 1277
+    },
+    {
+      "formId": 52,
+      "formName": "species_alcremie_flower_caramel_swirl",
+      "speciesId": 1278
+    },
+    {
+      "formId": 53,
+      "formName": "species_alcremie_flower_rainbow_swirl",
+      "speciesId": 1279
+    },
+    {
+      "formId": 54,
+      "formName": "species_alcremie_ribbon_vanilla_cream",
+      "speciesId": 1280
+    },
+    {
+      "formId": 55,
+      "formName": "species_alcremie_ribbon_ruby_cream",
+      "speciesId": 1281
+    },
+    {
+      "formId": 56,
+      "formName": "species_alcremie_ribbon_matcha_cream",
+      "speciesId": 1282
+    },
+    {
+      "formId": 57,
+      "formName": "species_alcremie_ribbon_mint_cream",
+      "speciesId": 1283
+    },
+    {
+      "formId": 58,
+      "formName": "species_alcremie_ribbon_lemon_cream",
+      "speciesId": 1284
+    },
+    {
+      "formId": 59,
+      "formName": "species_alcremie_ribbon_salted_cream",
+      "speciesId": 1285
+    },
+    {
+      "formId": 60,
+      "formName": "species_alcremie_ribbon_ruby_swirl",
+      "speciesId": 1286
+    },
+    {
+      "formId": 61,
+      "formName": "species_alcremie_ribbon_caramel_swirl",
+      "speciesId": 1287
+    },
+    {
+      "formId": 62,
+      "formName": "species_alcremie_ribbon_rainbow_swirl",
+      "speciesId": 1288
+    },
+    {
+      "formId": 63,
+      "formName": "species_alcremie_gmax",
+      "speciesId": 1518
+    }
+  ],
+  "870": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 870
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1549
+    }
+  ],
+  "875": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 875
+    },
+    {
+      "formId": 1,
+      "formName": "species_eiscue_noice",
+      "speciesId": 1224
+    }
+  ],
+  "876": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 876
+    },
+    {
+      "formId": 1,
+      "formName": "species_indeedee_f",
+      "speciesId": 1225
+    }
+  ],
+  "877": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 877
+    },
+    {
+      "formId": 1,
+      "formName": "species_morpeko_hangry",
+      "speciesId": 1226
+    }
+  ],
+  "879": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 879
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1519
+    }
+  ],
+  "884": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 884
+    },
+    {
+      "formId": 1,
+      "formName": "_gmax",
+      "speciesId": 1520
+    }
+  ],
+  "888": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 888
+    },
+    {
+      "formId": 1,
+      "formName": "species_zacian_crowned",
+      "speciesId": 1227
+    }
+  ],
+  "889": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 889
+    },
+    {
+      "formId": 1,
+      "formName": "species_zamazenta_crowned",
+      "speciesId": 1228
+    }
+  ],
+  "890": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 890
+    },
+    {
+      "formId": 1,
+      "formName": "_eternamax",
+      "speciesId": 1229
+    }
+  ],
+  "892": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 892
+    },
+    {
+      "formId": 1,
+      "formName": "species_urshifu_rapid_strike",
+      "speciesId": 1230
+    },
+    {
+      "formId": 2,
+      "formName": "_gmax",
+      "speciesId": 1521
+    },
+    {
+      "formId": 3,
+      "formName": "species_urshifu_rapid_strike_gmax",
+      "speciesId": 1522
+    }
+  ],
+  "893": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 893
+    },
+    {
+      "formId": 1,
+      "formName": "_dada",
+      "speciesId": 1231
+    }
+  ],
+  "898": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 898
+    },
+    {
+      "formId": 1,
+      "formName": "_ice",
+      "speciesId": 1232
+    },
+    {
+      "formId": 2,
+      "formName": "_shadow",
+      "speciesId": 1233
+    }
+  ],
+  "901": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 901
+    },
+    {
+      "formId": 1,
+      "formName": "_bloodmoon",
+      "speciesId": 1424
+    }
+  ],
+  "902": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 902
+    },
+    {
+      "formId": 1,
+      "formName": "species_basculegion_f",
+      "speciesId": 1234
+    }
+  ],
+  "905": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 905
+    },
+    {
+      "formId": 1,
+      "formName": "species_enamorus_therian",
+      "speciesId": 1103
+    }
+  ],
+  "1299": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1299
+    },
+    {
+      "formId": 1,
+      "formName": "species_oinkologne_f",
+      "speciesId": 1300
+    }
+  ],
+  "1309": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1309
+    },
+    {
+      "formId": 1,
+      "formName": "species_maushold_four",
+      "speciesId": 1310
+    }
+  ],
+  "1316": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1316
+    },
+    {
+      "formId": 1,
+      "formName": "species_squawkabilly_blue",
+      "speciesId": 1317
+    },
+    {
+      "formId": 2,
+      "formName": "species_squawkabilly_yellow",
+      "speciesId": 1318
+    },
+    {
+      "formId": 3,
+      "formName": "species_squawkabilly_white",
+      "speciesId": 1319
+    }
+  ],
+  "1340": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1340
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1567
+    }
+  ],
+  "1352": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1352
+    },
+    {
+      "formId": 1,
+      "formName": "species_palafin_hero",
+      "speciesId": 1353
+    }
+  ],
+  "1359": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1359
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1572
+    }
+  ],
+  "1367": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1367
+    },
+    {
+      "formId": 1,
+      "formName": "species_tatsugiri_droopy",
+      "speciesId": 1368
+    },
+    {
+      "formId": 2,
+      "formName": "species_tatsugiri_stretchy",
+      "speciesId": 1369
+    },
+    {
+      "formId": 3,
+      "formName": "_mega",
+      "speciesId": 1569
+    },
+    {
+      "formId": 4,
+      "formName": "species_tatsugiri_droopy_mega",
+      "speciesId": 1570
+    },
+    {
+      "formId": 5,
+      "formName": "species_tatsugiri_stretchy_mega",
+      "speciesId": 1571
+    }
+  ],
+  "1373": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1373
+    },
+    {
+      "formId": 1,
+      "formName": "species_dudunsparce_three_segment",
+      "speciesId": 1374
+    }
+  ],
+  "1390": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1390
+    },
+    {
+      "formId": 1,
+      "formName": "_mega",
+      "speciesId": 1568
+    }
+  ],
+  "1391": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1391
+    },
+    {
+      "formId": 1,
+      "formName": "species_gimmighoul_roaming",
+      "speciesId": 1392
+    }
+  ],
+  "1409": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1409
+    },
+    {
+      "formId": 1,
+      "formName": "species_poltchageist_artisan",
+      "speciesId": 1410
+    }
+  ],
+  "1411": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1411
+    },
+    {
+      "formId": 1,
+      "formName": "species_sinistcha_masterpiece",
+      "speciesId": 1412
+    }
+  ],
+  "1416": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1416
+    },
+    {
+      "formId": 1,
+      "formName": "species_ogerpon_wellspring",
+      "speciesId": 1417
+    },
+    {
+      "formId": 2,
+      "formName": "species_ogerpon_hearthflame",
+      "speciesId": 1418
+    },
+    {
+      "formId": 3,
+      "formName": "species_ogerpon_cornerstone",
+      "speciesId": 1419
+    },
+    {
+      "formId": 4,
+      "formName": "_tera",
+      "speciesId": 1420
+    },
+    {
+      "formId": 5,
+      "formName": "species_ogerpon_wellspring_tera",
+      "speciesId": 1421
+    },
+    {
+      "formId": 6,
+      "formName": "species_ogerpon_hearthflame_tera",
+      "speciesId": 1422
+    },
+    {
+      "formId": 7,
+      "formName": "species_ogerpon_cornerstone_tera",
+      "speciesId": 1423
+    }
+  ],
+  "1431": [
+    {
+      "formId": 0,
+      "formName": "default",
+      "speciesId": 1431
+    },
+    {
+      "formId": 1,
+      "formName": "species_terapagos_terastal",
+      "speciesId": 1432
+    },
+    {
+      "formId": 2,
+      "formName": "species_terapagos_stellar",
+      "speciesId": 1433
+    }
+  ]
+}
